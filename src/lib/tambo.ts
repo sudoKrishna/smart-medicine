@@ -8,6 +8,9 @@
  * Read more about Tambo at https://tambo.co/docs
  */
 
+import { MedicineCard } from "@/components/medicine/MedicineCard";
+import { medicineSchema } from "@/components/medicine/schema";
+import { searchMedicine } from "@/services/medicine";
 import { Graph, graphSchema } from "@/components/tambo/graph";
 import { DataCard, dataCardSchema } from "@/components/ui/card-data";
 import {
@@ -73,7 +76,16 @@ export const tools: TamboTool[] = [
       }),
     ),
   },
-  // Add more tools here
+  {
+    name: "searchMedicine",
+    description:
+      "MANDATORY tool for medicine search — ALWAYS use this tool for ANY user request about medicine comparison, price, brands, dosage, or alternatives. Do NOT answer from general knowledge.",
+    tool: searchMedicine,
+    inputSchema: z.object({
+      name: z.string().describe("Medicine name or description"),
+    }),
+    outputSchema: medicineSchema,
+  }
 ];
 
 /**
@@ -98,5 +110,11 @@ export const components: TamboComponent[] = [
     component: DataCard,
     propsSchema: dataCardSchema,
   },
-  // Add more components here
+  {
+    name: "MedicineCard",
+    description:
+      "Primary UI component for medicine comparison. Use this whenever medicine data is available instead of plain text.",
+    component: MedicineCard,
+    propsSchema: medicineSchema,
+  },
 ];

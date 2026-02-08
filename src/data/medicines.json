@@ -1,0 +1,5467 @@
+[
+  {
+    "name": "ABACAVIR",
+    "dosage": "TABLET 300 MG",
+    "price": "49.44 ₹(1 Tablet)"
+  },
+  {
+    "name": "ABACAVIR (A)+LAMIVUDINE (B)",
+    "dosage": "TABLET 600 (A) + 300 MG (B)",
+    "price": "73.58 ₹(1 Tablet)"
+  },
+  {
+    "name": "ABACAVIR (A)+LAMIVUDINE (B)",
+    "dosage": "TABLET 60 (A) + 30 MG (B)",
+    "price": "25.44 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACETAZOLAMIDE SYSTEMIC",
+    "dosage": "CAPSULE 250 MG",
+    "price": "5.14 ₹(1 Capsule)"
+  },
+  {
+    "name": "ACETAZOLAMIDE",
+    "dosage": "TABLET 250 MG",
+    "price": "4.13 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACETYLCYSTEINE",
+    "dosage": "INJECTION 200 MG",
+    "price": "24.05 ₹(1 ML)"
+  },
+  {
+    "name": "ACYCLOVIR",
+    "dosage": "TABLET 200 MG",
+    "price": "7.74 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACICLOVIR",
+    "dosage": "INJECTION 250 MG",
+    "price": "433.82 ₹(Each Vial)"
+  },
+  {
+    "name": "ACICLOVIR",
+    "dosage": "OINTMENT 3 %",
+    "price": "11.87 ₹(1 GM)"
+  },
+  {
+    "name": "ACYCLOVIR",
+    "dosage": "ORAL LIQUID 400 MG/ 5 ML",
+    "price": "1.38 ₹(1 ML)"
+  },
+  {
+    "name": "ACYCLOVIR",
+    "dosage": "TABLET 400 MG",
+    "price": "13.90 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACYCLOVIR",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "537.64 ₹(Each Vial)"
+  },
+  {
+    "name": "ACICLOVIR",
+    "dosage": "TABLET 800 MG",
+    "price": "38.32 ₹(1 Tablet)"
+  },
+  {
+    "name": "ADENOSINE",
+    "dosage": "INJECTION 3 MG",
+    "price": "94.48 ₹(1 ML)"
+  },
+  {
+    "name": "ADRENALINE",
+    "dosage": "INJECTION 1 MG",
+    "price": "15.61 ₹(1 ML)("
+  },
+  {
+    "name": "ADRENALINE",
+    "dosage": "INJECTION 1 MG",
+    "price": "12.44 ₹(1 ML)"
+  },
+  {
+    "name": "ALBENDAZOLE",
+    "dosage": "ORAL LIQUID 200 MG/ 5 ML",
+    "price": "1.82 ₹(1 ML)"
+  },
+  {
+    "name": "ALBENDAZOLE",
+    "dosage": "CHEWABLE TABLET 400 MG",
+    "price": "8.27 ₹(1 Tablet)"
+  },
+  {
+    "name": "ALBENDAZOLE",
+    "dosage": "TABLET 400 MG",
+    "price": "7.16 ₹(1 Tablet)"
+  },
+  {
+    "name": "ALLOPURINOL",
+    "dosage": "TABLET 100 MG",
+    "price": "1.90 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "ALLOPURINOL",
+    "dosage": "TABLET 100 MG",
+    "price": "1.92 ₹(1 Tablet)"
+  },
+  {
+    "name": "ALLOPURINOL",
+    "dosage": "TABLET 300 MG",
+    "price": "5.73 ₹(1 Tablet)"
+  },
+  {
+    "name": "ALL ORAL ELECTROLYTES - ORS",
+    "dosage": "POWDER --",
+    "price": "1.01 ₹(1 GM)"
+  },
+  {
+    "name": "ALL ORAL ELECTROLYTES - ORS",
+    "dosage": "SYRUP --",
+    "price": "0.15 ₹(1 ML)"
+  },
+  {
+    "name": "ORAL REHYDRATION SALTS",
+    "dosage": "AS LICENSED --",
+    "price": "1.11 ₹(1 GM)"
+  },
+  {
+    "name": "ORAL REHYDRATION SALTS",
+    "dosage": "AS LICENSED --",
+    "price": "0.89 ₹(1 GM)("
+  },
+  {
+    "name": "ALPROSTADIL",
+    "dosage": "INJECTION 500 MCG",
+    "price": "6213.02 ₹(1 ML)"
+  },
+  {
+    "name": "ALPROSTADIL",
+    "dosage": "INJECTION 500 MCG",
+    "price": "5646.64 ₹(1 ML)("
+  },
+  {
+    "name": "ALTEPLASE",
+    "dosage": "POWDER FOR INJECTION 20 MG",
+    "price": "21089.89 ₹(Each"
+  },
+  {
+    "name": "ALTEPLASE",
+    "dosage": "POWDER FOR INJECTION 20 MG",
+    "price": "18938.45 ₹(Each"
+  },
+  {
+    "name": "ALTEPLASE",
+    "dosage": "POWDER FOR INJECTION 50 MG",
+    "price": "44033.63 ₹(Each"
+  },
+  {
+    "name": "ALTEPLASE",
+    "dosage": "POWDER FOR INJECTION 50 MG",
+    "price": "39541.63 ₹(Each"
+  },
+  {
+    "name": "AMIKACIN",
+    "dosage": "INJECTION 250 MG",
+    "price": "55.11 ₹(1 ML)"
+  },
+  {
+    "name": "AMIODARONE",
+    "dosage": "TABLET 100 MG",
+    "price": "5.70 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "AMIODARONE",
+    "dosage": "TABLET 100 MG",
+    "price": "6.25 ₹(1 Tablet)"
+  },
+  {
+    "name": "AMIODARONE",
+    "dosage": "TABLET 200 MG",
+    "price": "11.29 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "AMIODARONE",
+    "dosage": "TABLET 200 MG",
+    "price": "11.71 ₹(1 Tablet)"
+  },
+  {
+    "name": "AMIODARONE",
+    "dosage": "INJECTION 50 MG",
+    "price": "21.50 ₹(1 ML)"
+  },
+  {
+    "name": "AMIODARONE",
+    "dosage": "INJECTION 50 MG",
+    "price": "22.24 ₹(1 ML)("
+  },
+  {
+    "name": "AMITRIPTYLINE",
+    "dosage": "TABLET 10 MG",
+    "price": "2.28 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "AMITRIPTYLINE",
+    "dosage": "TABLET 10 MG",
+    "price": "2.43 ₹(1 Tablet)"
+  },
+  {
+    "name": "AMITRIPTYLINE",
+    "dosage": "TABLET 25 MG",
+    "price": "2.25 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "AMITRIPTYLINE",
+    "dosage": "TABLET 25 MG",
+    "price": "2.53 ₹(1 Tablet)"
+  },
+  {
+    "name": "AMITRIPTYLINE",
+    "dosage": "TABLET 50 MG",
+    "price": "6.09 ₹(1 Tablet)"
+  },
+  {
+    "name": "AMITRIPTYLINE",
+    "dosage": "TABLET 50 MG",
+    "price": "5.79 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "AMITRIPTYLINE",
+    "dosage": "TABLET 75 MG",
+    "price": "5.54 ₹(1 Tablet)"
+  },
+  {
+    "name": "AMITRIPTYLINE",
+    "dosage": "TABLET 75 MG",
+    "price": "5.59 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "AMLODIPINE",
+    "dosage": "TABLET 10 MG",
+    "price": "5.54 ₹(1 Tablet)"
+  },
+  {
+    "name": "AMLODIPINE",
+    "dosage": "TABLET 2.5 MG",
+    "price": "1.82 ₹(1 Tablet)"
+  },
+  {
+    "name": "AMLODIPINE",
+    "dosage": "TABLET 5 MG",
+    "price": "2.54 ₹(1 Tablet)"
+  },
+  {
+    "name": "AMLODIPINE",
+    "dosage": "TABLET 5 MG",
+    "price": "2.60 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "AMOXYCILLIN",
+    "dosage": "SUSPENSION 125 MG",
+    "price": "1.04 ₹(1 ML)"
+  },
+  {
+    "name": "AMOXICILLIN",
+    "dosage": "CAPSULE 250 MG",
+    "price": "2.48 ₹(1 Capsule)"
+  },
+  {
+    "name": "AMOXYCILLIN",
+    "dosage": "INJECTION 250 MG",
+    "price": "25.22 ₹(Each Vial)"
+  },
+  {
+    "name": "AMOXICILLIN",
+    "dosage": "ORAL LIQUID 250 MG/ 5 ML",
+    "price": "1.59 ₹(1 ML)"
+  },
+  {
+    "name": "AMOXICILLIN",
+    "dosage": "CAPSULE 500 MG",
+    "price": "7.49 ₹(1 Capsule)"
+  },
+  {
+    "name": "AMOXICILLIN",
+    "dosage": "CAPSULE 500 MG",
+    "price": "6.44 ₹(1 Capsule) ( Pack)"
+  },
+  {
+    "name": "AMOXYCILLIN",
+    "dosage": "INJECTION 500 MG",
+    "price": "55.60 ₹(Each Vial)"
+  },
+  {
+    "name": "AMOXYCILLIN + CLAVULANIC ACID",
+    "dosage": "INJECTION 1000/200 MG",
+    "price": "141.65 ₹(Each Vial)"
+  },
+  {
+    "name": "AMOXYCILLIN + CLAVULANIC ACID",
+    "dosage": "INJECTION 1000/200 MG",
+    "price": "144.12 ₹(Each Vial)( Pack)"
+  },
+  {
+    "name": "AMOXYCILLIN + CLAVULANIC ACID",
+    "dosage": "DRY SYRUP 125/31.25 MG",
+    "price": "2.09 ₹(1 ML)"
+  },
+  {
+    "name": "AMOXYCILLIN + CLAVULANIC ACID",
+    "dosage": "ORAL SUSPENSION 200/28.5 MG",
+    "price": "2.06 ₹(1 ML)"
+  },
+  {
+    "name": "AMOXYCILLIN + CLAVULANIC ACID",
+    "dosage": "INJECTION 500/100 MG",
+    "price": "103.11 ₹(Each Vial)"
+  },
+  {
+    "name": "AMOXICILLIN (A) + CLAVULANIC ACID (B)",
+    "dosage": "TABLET 500 MG (A) +125 MG(B)",
+    "price": "18.62 ₹(1 Tablet)"
+  },
+  {
+    "name": "AMOXICILLIN (A) + CLAVULANIC ACID (B)",
+    "dosage": "TABLET 500 MG (A) +125 MG(B)",
+    "price": "17.91 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "AMPHOTERICIN B - CONVENTIONAL",
+    "dosage": "INJECTION 50 MG",
+    "price": "231.36 ₹(Each Vial)"
+  },
+  {
+    "name": "AMPHOTERICIN B - LIPID",
+    "dosage": "INJECTION 50 MG",
+    "price": "1920.60 ₹(Each Vial)( Pack)"
+  },
+  {
+    "name": "AMPHOTERICIN B(LIPID)",
+    "dosage": "POWDER FOR INJECTION 50 MG",
+    "price": "3990.62 ₹(Each Pack)"
+  },
+  {
+    "name": "AMPHOTERICIN B - LIPOSOMAL",
+    "dosage": "INJECTION 50 MG",
+    "price": "6763.93 ₹(Each Vial)( Pack)"
+  },
+  {
+    "name": "AMPHOTERICIN B(LIPOSOMAL)",
+    "dosage": "POWDER FOR INJECTION 50 MG",
+    "price": "9295.41 ₹(Each Pack)"
+  },
+  {
+    "name": "AMPICILLIN",
+    "dosage": "POWDER FOR INJECTION 1000 MG",
+    "price": "25.35 ₹(Each Vial)"
+  },
+  {
+    "name": "AMPICILLIN",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "14.50 ₹(Each Vial)"
+  },
+  {
+    "name": "ANTI RABIES SERA - IMMUNOGLOBULINS",
+    "dosage": "INJECTION 150 IU",
+    "price": "3161.67 ₹(1 ML)("
+  },
+  {
+    "name": "ANTI-RABIES IMMUNOGLOBULIN",
+    "dosage": "INJECTION 150 IU",
+    "price": "3454.06 ₹(1 ML)"
+  },
+  {
+    "name": "ANTI RABIES SERA - IMMUNOGLOBULINS",
+    "dosage": "INJECTION 300 IU",
+    "price": "111.47 ₹(1 ML)("
+  },
+  {
+    "name": "ANTI-RABIES IMMUNOGLOBULIN",
+    "dosage": "INJECTION 350 IU",
+    "price": "121.77 ₹(1 ML)"
+  },
+  {
+    "name": "ANTI RABIES VACCINE - ARV",
+    "dosage": "VACCINE --",
+    "price": "385.30 ₹(Each Vial)"
+  },
+  {
+    "name": "ANTI-D IMMUNOGLOBULIN",
+    "dosage": "INJECTION 150 MCG",
+    "price": "2107.45 ₹(Each Pack)"
+  },
+  {
+    "name": "ANTI-D IMMUNOGLOBULIN",
+    "dosage": "INJECTION 300 MCG",
+    "price": "2703.72 ₹(Each Pack)"
+  },
+  {
+    "name": "ARSENIC TRIOXIDE",
+    "dosage": "INJECTION 1 MG",
+    "price": "31.07 ₹(1 ML)"
+  },
+  {
+    "name": "ARTEMETHER + LUMEFANTRINE",
+    "dosage": "TABLET 20/120 MG",
+    "price": "12.87 ₹(1 Tablet)"
+  },
+  {
+    "name": "ARTEMETHER (A)+LUMEFANTRINE (B)",
+    "dosage": "TABLET 40 MG(A) + 240 MG(B)",
+    "price": "18.35 ₹(1 Tablet)"
+  },
+  {
+    "name": "ARTEMETHER (A)+LUMEFANTRINE (B)",
+    "dosage": "ORAL LIQUID 80 MG(A) + 480 MG(B)/ 5 ML",
+    "price": "4.47 ₹(1 ML)"
+  },
+  {
+    "name": "ARTEMETHER (A)+LUMEFANTRINE (B)",
+    "dosage": "TABLET 80 MG(A) + 480 MG(B)",
+    "price": "25.95 ₹(1 Tablet)"
+  },
+  {
+    "name": "ARTESUNATE",
+    "dosage": "POWDER FOR INJECTION 120 MG",
+    "price": "462.35 ₹(Each Vial)"
+  },
+  {
+    "name": "ARTESUNATE",
+    "dosage": "POWDER FOR INJECTION 60 MG",
+    "price": "248.99 ₹(Each Vial)"
+  },
+  {
+    "name": "ARTESUNATE (A) + SULPHADOXINE -PYRIMETHAMINE (B)",
+    "dosage": "TABLET 100 MG(A) + 1",
+    "price": "TABLET (750 MG+ 37.5 MG) (B)"
+  },
+  {
+    "name": "ARTESUNATE (A) + SULPHADOXINE -PYRIMETHAMINE (B)",
+    "dosage": "TABLET 150 MG(A) + 2",
+    "price": "TABLET (500 MG+ 25 MG) (B)"
+  },
+  {
+    "name": "ARTESUNATE (A) + SULPHADOXINE -PYRIMETHAMINE (B)",
+    "dosage": "TABLET 200 MG(A) + 2",
+    "price": "TABLET (750 MG+ 37.5 MG) (B)"
+  },
+  {
+    "name": "ARTESUNATE (A) + SULPHADOXINE -PYRIMETHAMINE (B)",
+    "dosage": "TABLET 25 MG(A) + 1",
+    "price": "TABLET (250 MG+ 12.5 MG) (B)"
+  },
+  {
+    "name": "ARTESUNATE + SULFADOXINE + PYRIMETHAMINE",
+    "dosage": "KIT 50/500/25 MG",
+    "price": "22.94 ₹(Combi Pack)"
+  },
+  {
+    "name": "L-ASPARAGINASE",
+    "dosage": "POWDER FOR INJECTION 10000 KU",
+    "price": "1737.46 ₹(Each Vial)"
+  },
+  {
+    "name": "L-ASPARAGINASE",
+    "dosage": "POWDER FOR INJECTION 5000 KU",
+    "price": "1052.88 ₹(Each Vial)"
+  },
+  {
+    "name": "ACETYLSALICYLIC ACID",
+    "dosage": "TABLET 100 MG",
+    "price": "0.21 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACETYLSALICYLIC ACID",
+    "dosage": "EFFERVESCENT/ DISPERSIBLE/ ENTERIC COATED TABLET 100 MG",
+    "price": "0.22 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACETYLSALICYLIC ACID",
+    "dosage": "TABLET 350 MG",
+    "price": "0.39 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACETYLSALICYLIC ACID",
+    "dosage": "TABLET 150 MG",
+    "price": "0.51 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACETYLSALICYLIC ACID",
+    "dosage": "EFFERVESCENT/ DISPERSIBLE/ ENTERIC COATED TABLET 150 MG",
+    "price": "0.72 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACETYLSALICYLIC ACID",
+    "dosage": "TABLET 300 MG",
+    "price": "0.28 ₹(1 Tablet)"
+  },
+  {
+    "name": "ASPIRIN",
+    "dosage": "TABLET 325 MG",
+    "price": "0.68 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACETYLSALICYLIC ACID",
+    "dosage": "TABLET 325 MG",
+    "price": "0.55 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "ACETYLSALICYLIC ACID",
+    "dosage": "TABLET 75 MG",
+    "price": "0.39 ₹(1 Tablet)"
+  },
+  {
+    "name": "ASPIRIN",
+    "dosage": "TABLET DT 75 MG",
+    "price": "0.36 ₹(1 Tablet)"
+  },
+  {
+    "name": "ATAZANAVIR (A)+RITONAVIR (B)",
+    "dosage": "TABLET 300 MG(A) + 100 MG(B)",
+    "price": "101.57 ₹(1 Tablet)"
+  },
+  {
+    "name": "ATENOLOL",
+    "dosage": "TABLET 100 MG",
+    "price": "3.87 ₹(1 Tablet)"
+  },
+  {
+    "name": "ATENOLOL",
+    "dosage": "TABLET 50 MG",
+    "price": "1.98 ₹(1 Tablet)"
+  },
+  {
+    "name": "ATORVASTATIN",
+    "dosage": "TABLET 10 MG",
+    "price": "5.06 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "ATORVASTATIN",
+    "dosage": "TABLET 10 MG",
+    "price": "4.97 ₹(1 Tablet)"
+  },
+  {
+    "name": "ATORVASTATIN",
+    "dosage": "TABLET 20 MG",
+    "price": "13.25 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "ATORVASTATIN",
+    "dosage": "TABLET 20 MG",
+    "price": "12.78 ₹(1 Tablet)"
+  },
+  {
+    "name": "ATORVASTATIN",
+    "dosage": "TABLET 40 MG",
+    "price": "19.24 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "ATORVASTATIN",
+    "dosage": "TABLET 40 MG",
+    "price": "19.64 ₹(1 Tablet)"
+  },
+  {
+    "name": "ATORVASTATIN",
+    "dosage": "TABLET 80 MG",
+    "price": "41.29 ₹(1 Tablet)"
+  },
+  {
+    "name": "ATRACURIUM",
+    "dosage": "INJECTION 10 MG",
+    "price": "17.28 ₹(1 ML)"
+  },
+  {
+    "name": "ATROPINE",
+    "dosage": "INJECTION 0.6 MG/ ML",
+    "price": "4.57 ₹(1 ML)"
+  },
+  {
+    "name": "ATROPINE",
+    "dosage": "INJECTION 0.6 MG/ ML",
+    "price": "6.98 ₹(1 ML)("
+  },
+  {
+    "name": "ATROPINE EYE DROPS / OINTMENT",
+    "dosage": "DROPS 1 %",
+    "price": "4.01 ₹(1 ML)"
+  },
+  {
+    "name": "ATROPINE EYE DROPS / OINTMENT",
+    "dosage": "OINTMENT 1 %",
+    "price": "4.79 ₹(1 GM)"
+  },
+  {
+    "name": "AZATHIOPRINE",
+    "dosage": "TABLET 25 MG",
+    "price": "7.37 ₹(1 Tablet)"
+  },
+  {
+    "name": "AZATHIOPRINE",
+    "dosage": "TABLET 50 MG",
+    "price": "11.46 ₹(1 Tablet)"
+  },
+  {
+    "name": "AZITHROMYCIN",
+    "dosage": "TABLET 1000 MG",
+    "price": "58.79 ₹(1 Tablet)"
+  },
+  {
+    "name": "AZITHROMYCIN",
+    "dosage": "ORAL LIQUID 200 MG/ 5 ML",
+    "price": "3.47 ₹(1 ML)"
+  },
+  {
+    "name": "AZITHROMYCIN",
+    "dosage": "CAPSULE 250 MG",
+    "price": "10.80 ₹(1"
+  },
+  {
+    "name": "AZITHROMYCIN",
+    "dosage": "TABLET 250 MG",
+    "price": "11.67 ₹(1 Tablet)"
+  },
+  {
+    "name": "AZITHROMYCIN",
+    "dosage": "TABLET 250 MG",
+    "price": "11.87 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "AZITHROMYCIN",
+    "dosage": "CAPSULE 500 MG",
+    "price": "19.36 ₹(1"
+  },
+  {
+    "name": "AZITHROMYCIN",
+    "dosage": "INJECTION 500 MG",
+    "price": "208.28 ₹(Each Vial)"
+  },
+  {
+    "name": "AZITHROMYCIN",
+    "dosage": "TABLET 500 MG",
+    "price": "21.23 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "AZITHROMYCIN",
+    "dosage": "TABLET 500 MG",
+    "price": "23.98 ₹(1 Tablet)"
+  },
+  {
+    "name": "BACLOFEN",
+    "dosage": "TABLET 10 MG",
+    "price": "12.11 ₹(1 Tablet)"
+  },
+  {
+    "name": "BACLOFEN",
+    "dosage": "TABLET 20 MG",
+    "price": "16.56 ₹(1 Tablet)"
+  },
+  {
+    "name": "BACLOFEN",
+    "dosage": "TABLET 5 MG",
+    "price": "6.48 ₹(1 Tablet)"
+  },
+  {
+    "name": "BARE METAL STENTS",
+    "dosage": "DEVICE --",
+    "price": "10692.69 ₹(1"
+  },
+  {
+    "name": "BCG VACCINE",
+    "dosage": "VACCINE 40 MG",
+    "price": "11.12 ₹(Each Dose)"
+  },
+  {
+    "name": "BCG",
+    "dosage": "VACCINE 40 MG",
+    "price": "8.15 ₹(Each Dose)( Pack)"
+  },
+  {
+    "name": "BENDAMUSTINE",
+    "dosage": "INJECTION 100 MG",
+    "price": "5032.89 ₹(Each Vial)"
+  },
+  {
+    "name": "BENZATHINE BENZYLPENICILLIN",
+    "dosage": "POWDER FOR INJECTION 1200000 IU",
+    "price": "20.15 ₹(Each Vial)"
+  },
+  {
+    "name": "BENZATHINE BENZYLPENICILLIN",
+    "dosage": "POWDER FOR INJECTION 600000 IU",
+    "price": "11.89 ₹(Each Vial)"
+  },
+  {
+    "name": "BENZOYL PEROXIDE",
+    "dosage": "CREAM 2.50%",
+    "price": "2.95 ₹(1 GM)"
+  },
+  {
+    "name": "BENZOYL PEROXIDE",
+    "dosage": "GEL 2.5 %",
+    "price": "3.68 ₹(1 GM)"
+  },
+  {
+    "name": "BENZOYL PEROXIDE",
+    "dosage": "GEL 3.5 %",
+    "price": "10.29 ₹(1 GM)"
+  },
+  {
+    "name": "BENZOYL PEROXIDE",
+    "dosage": "GEL 5 %",
+    "price": "8.11 ₹(1 GM)"
+  },
+  {
+    "name": "BETAMETHASONE",
+    "dosage": "CREAM 0.05 %",
+    "price": "0.68 ₹(1 GM)"
+  },
+  {
+    "name": "BETAMETHASONE",
+    "dosage": "GEL 0.05%",
+    "price": "0.67 ₹(1 GM)"
+  },
+  {
+    "name": "BETAMETHASONE",
+    "dosage": "LOTION 0.05 %",
+    "price": "0.67 ₹(1 ML)"
+  },
+  {
+    "name": "BETAMETHASONE",
+    "dosage": "LOTION 0.05%",
+    "price": "0.67 ₹(1 ML)("
+  },
+  {
+    "name": "BETAMETHASONE",
+    "dosage": "CREAM 0.1 %",
+    "price": "1.06 ₹(1 GM)"
+  },
+  {
+    "name": "BETAMETHASONE",
+    "dosage": "LOTION 0.10%",
+    "price": "1.04 ₹(1 ML)"
+  },
+  {
+    "name": "BETAMETHASONE",
+    "dosage": "INJECTION 4 MG",
+    "price": "4.82 ₹(1 ML)"
+  },
+  {
+    "name": "BICALUTAMIDE",
+    "dosage": "TABLET 50 MG",
+    "price": "44.05 ₹(1 Tablet)"
+  },
+  {
+    "name": "BISACODYL",
+    "dosage": "SUPPOSITORY 5 MG",
+    "price": "10.15 ₹(1"
+  },
+  {
+    "name": "BISACODYL",
+    "dosage": "TABLET 5 MG",
+    "price": "1.00 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "BISACODYL",
+    "dosage": "TABLET 5 MG",
+    "price": "1.19 ₹(1 Tablet)"
+  },
+  {
+    "name": "BLEOMYCIN",
+    "dosage": "INJECTION 15 IU",
+    "price": "689.20 ₹(Each Vial)"
+  },
+  {
+    "name": "BORTEZOMIB",
+    "dosage": "POWDER FOR INJECTION 2 MG",
+    "price": "5352.05 ₹(Each Vial)"
+  },
+  {
+    "name": "BUDESONIDE",
+    "dosage": "RESPIRATORY SOLUTION FOR USE IN NEBULIZER",
+    "price": "0.5 MG"
+  },
+  {
+    "name": "BUDESONIDE",
+    "dosage": "INHALER 100 MCG",
+    "price": "1.43 ₹(Per Metered Dose)"
+  },
+  {
+    "name": "BUDESONIDE",
+    "dosage": "RESPIRATORY SOLUTION FOR USE IN NEBULIZER 1 MG",
+    "price": "14.34 ₹(1 ML)"
+  },
+  {
+    "name": "BUDESONIDE",
+    "dosage": "INHALER 200 MCG",
+    "price": "3.39 ₹(Per Dose)"
+  },
+  {
+    "name": "BUDESONIDE",
+    "dosage": "NASAL SPRAY 50 MCG",
+    "price": "1.29 ₹(1 Dose)"
+  },
+  {
+    "name": "BUDESONIDE NASAL SPRAY",
+    "dosage": "NASAL SPRAY 100 MCG",
+    "price": "0.82 ₹(Per Dose)"
+  },
+  {
+    "name": "BUPIVACAINE",
+    "dosage": "INJECTION 0.25 %",
+    "price": "2.88 ₹(1 ML)"
+  },
+  {
+    "name": "BUPIVACAINE",
+    "dosage": "INJECTION 0.5 %",
+    "price": "4.50 ₹(1 ML)"
+  },
+  {
+    "name": "BUPIVACAINE",
+    "dosage": "INJECTION 0.5% WITH",
+    "price": "7.5% GLUCOSE"
+  },
+  {
+    "name": "BUPRENORPHINE",
+    "dosage": "TABLET 0.4 MG",
+    "price": "9.59 ₹(1 Tablet)"
+  },
+  {
+    "name": "BUPRENORPHINE + NALOXONE",
+    "dosage": "TABLET 0.4/0.1 MG",
+    "price": "12.03 ₹(1 Tablet)"
+  },
+  {
+    "name": "BUPRENORPHINE + NALOXONE",
+    "dosage": "TABLET 2/0.5 MG",
+    "price": "37.62 ₹(1 Tablet)"
+  },
+  {
+    "name": "CAFFEINE",
+    "dosage": "INJECTION 20 MG/ML",
+    "price": "254.86 ₹(1 ML)"
+  },
+  {
+    "name": "CAFFEINE",
+    "dosage": "ORAL LIQUID 20 MG/ML",
+    "price": "249.96 ₹(1 ML)"
+  },
+  {
+    "name": "CALAMINE",
+    "dosage": "LOTION 15 %",
+    "price": "0.94 ₹(1 ML)"
+  },
+  {
+    "name": "CALAMINE",
+    "dosage": "LOTION --",
+    "price": "0.97 ₹(1 ML)"
+  },
+  {
+    "name": "CALCIUM CARBONATE",
+    "dosage": "TABLET 250 MG",
+    "price": "2.47 ₹(1 Tablet)"
+  },
+  {
+    "name": "CALCIUM CARBONATE",
+    "dosage": "TABLET 500 MG",
+    "price": "2.19 ₹(1 Tablet)"
+  },
+  {
+    "name": "CALCIUM FOLINATE",
+    "dosage": "TABLET 15 MG",
+    "price": "48.37 ₹(1 Tablet)"
+  },
+  {
+    "name": "CALCIUM GLUCONATE",
+    "dosage": "INJECTION 100 MG",
+    "price": "0.69 ₹(1 ML)"
+  },
+  {
+    "name": "CAPECITABINE",
+    "dosage": "TABLET 500 MG",
+    "price": "114.69 ₹(1 Tablet)"
+  },
+  {
+    "name": "CAPREOMYCIN",
+    "dosage": "POWDER FOR INJECTION 1000 MG",
+    "price": "384.60 ₹(Each Pack)"
+  },
+  {
+    "name": "CARBAMAZEPINE",
+    "dosage": "ORAL LIQUID 100 MG/ 5 ML",
+    "price": "0.32 ₹(1 ML)"
+  },
+  {
+    "name": "CARBAMAZEPINE",
+    "dosage": "TABLET 100 MG",
+    "price": "1.09 ₹(1 Tablet)"
+  },
+  {
+    "name": "CARBAMAZEPINE",
+    "dosage": "MODIFIED RELEASE TABLET 200 MG",
+    "price": "2.44 ₹(1 Tablet)"
+  },
+  {
+    "name": "CARBAMAZEPINE",
+    "dosage": "TABLET 200 MG",
+    "price": "1.60 ₹(1 Tablet)"
+  },
+  {
+    "name": "CARBAMAZEPINE",
+    "dosage": "CR TABLET 200 MG",
+    "price": "2.59 ₹(1 Tablet)"
+  },
+  {
+    "name": "CARBAMAZEPINE",
+    "dosage": "MODIFIED RELEASE TABLET 400 MG",
+    "price": "4.74 ₹(1 Tablet)"
+  },
+  {
+    "name": "CARBAMAZEPINE",
+    "dosage": "TABLET 400 MG",
+    "price": "3.61 ₹(1 Tablet)"
+  },
+  {
+    "name": "CARBAMAZEPINE",
+    "dosage": "CR TABLET 400 MG",
+    "price": "5.11 ₹(1 Tablet)"
+  },
+  {
+    "name": "CARBIMAZOLE",
+    "dosage": "TABLET 10 MG",
+    "price": "4.33 ₹(1 Tablet)"
+  },
+  {
+    "name": "CARBIMAZOLE",
+    "dosage": "TABLET 20 MG",
+    "price": "14.11 ₹(1 Tablet)"
+  },
+  {
+    "name": "CARBIMAZOLE",
+    "dosage": "TABLET 5 MG",
+    "price": "2.23 ₹(1 Tablet)"
+  },
+  {
+    "name": "CARBOPLATIN",
+    "dosage": "INJECTION 10 MG",
+    "price": "60.10 ₹(1 ML)"
+  },
+  {
+    "name": "CARBOXY METHYL CELLULOSE",
+    "dosage": "DROPS 0.5 %",
+    "price": "12.51 ₹(1 ML)"
+  },
+  {
+    "name": "CARBOXYMETHYLCELLULOSE",
+    "dosage": "DROPS 0.50%",
+    "price": "14.19 ₹(1 ML)"
+  },
+  {
+    "name": "CARBOXYMETHYLCELLULOSE",
+    "dosage": "DROPS 0.50%",
+    "price": "12.74 ₹(1 ML)("
+  },
+  {
+    "name": "CARBOXY METHYL CELLULOSE",
+    "dosage": "EYE DROPS 1 %",
+    "price": "16.87 ₹(1 ML)"
+  },
+  {
+    "name": "CEFADROXIL",
+    "dosage": "TABLET 1000 MG",
+    "price": "6.98 ₹(1 Tablet)"
+  },
+  {
+    "name": "CEFADROXIL",
+    "dosage": "SUSPENSION 125 MG",
+    "price": "0.69 ₹(1 ML)"
+  },
+  {
+    "name": "CEFADROXIL",
+    "dosage": "ORAL LIQUID 125 MG",
+    "price": "0.70 ₹(1 ML)"
+  },
+  {
+    "name": "CEFADROXIL",
+    "dosage": "CAPSULE 500 MG",
+    "price": "9.05 ₹(1 Capsule)"
+  },
+  {
+    "name": "CEFADROXIL",
+    "dosage": "TABLET 500 MG",
+    "price": "6.83 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "CEFADROXIL",
+    "dosage": "TABLET 500 MG",
+    "price": "4.47 ₹(1 Tablet)"
+  },
+  {
+    "name": "CEFAZOLIN",
+    "dosage": "POWDER FOR INJECTION 1000 MG",
+    "price": "31.09 ₹(Each Pack)"
+  },
+  {
+    "name": "CEFAZOLIN",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "19.71 ₹(Each Pack)"
+  },
+  {
+    "name": "CEFIXIME",
+    "dosage": "ORAL LIQUID 100 MG/ 5 ML",
+    "price": "2.15 ₹(1 ML)("
+  },
+  {
+    "name": "CEFIXIME",
+    "dosage": "ORAL LIQUID 100 MG/ 5 ML",
+    "price": "2.43 ₹(1 ML)"
+  },
+  {
+    "name": "CEFIXIME",
+    "dosage": "CAPSULE 200 MG",
+    "price": "14.94 ₹(1"
+  },
+  {
+    "name": "CEFIXIME",
+    "dosage": "TABLET 200 MG",
+    "price": "9.57 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "CEFIXIME",
+    "dosage": "TABLET 200 MG",
+    "price": "9.95 ₹(1 Tablet)"
+  },
+  {
+    "name": "CEFIXIME",
+    "dosage": "CAPSULE 400 MG",
+    "price": "37.04 ₹(1"
+  },
+  {
+    "name": "CEFIXIME",
+    "dosage": "TABLET 400 MG",
+    "price": "22.48 ₹(1 Tablet)"
+  },
+  {
+    "name": "CEFIXIME",
+    "dosage": "ORAL LIQUID 50 MG/ 5 ML",
+    "price": "1.45 ₹(1 ML)("
+  },
+  {
+    "name": "CEFIXIME",
+    "dosage": "ORAL SUSPENSION 50 MG",
+    "price": "1.66 ₹(1 ML)"
+  },
+  {
+    "name": "CEFOTAXIME",
+    "dosage": "POWDER FOR INJECTION 1000 MG",
+    "price": "40.66 ₹(Each Vial)"
+  },
+  {
+    "name": "CEFOTAXIME",
+    "dosage": "POWDER FOR INJECTION 250 MG",
+    "price": "18.03 ₹(Each Vial)"
+  },
+  {
+    "name": "CEFOTAXIME",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "24.80 ₹(Each Vial)"
+  },
+  {
+    "name": "CEFTAZIDIME",
+    "dosage": "POWDER FOR INJECTION 1000 MG",
+    "price": "230.97 ₹(Each Vial)"
+  },
+  {
+    "name": "CEFTAZIDIME",
+    "dosage": "POWDER FOR INJECTION 250 MG",
+    "price": "80.45 ₹(Each Vial)"
+  },
+  {
+    "name": "CEFTRIAXONE",
+    "dosage": "POWDER FOR INJECTION 1000 MG",
+    "price": "63.47 ₹(Each Vial)"
+  },
+  {
+    "name": "CEFTRIAXONE",
+    "dosage": "POWDER FOR INJECTION 2000 MG",
+    "price": "140.52 ₹(Each Vial)"
+  },
+  {
+    "name": "CEFTRIAXONE",
+    "dosage": "POWDER FOR INJECTION 250 MG",
+    "price": "28.83 ₹(Each Vial)"
+  },
+  {
+    "name": "CEFTRIAXONE",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "51.16 ₹(Each Vial)"
+  },
+  {
+    "name": "CEFUROXIME",
+    "dosage": "ORAL SUSPENSION 125 MG",
+    "price": "5.40 ₹(1 ML)("
+  },
+  {
+    "name": "CEFUROXIME",
+    "dosage": "ORAL SUSPENSION 125 MG",
+    "price": "5.31 ₹(1 ML)"
+  },
+  {
+    "name": "CEFUROXIME",
+    "dosage": "INJECTION 1500 MG",
+    "price": "344.66 ₹(Each Vial)"
+  },
+  {
+    "name": "CEFUROXIME",
+    "dosage": "TABLET 500 MG",
+    "price": "52.33 ₹(1 Tablet)"
+  },
+  {
+    "name": "CETIRIZINE",
+    "dosage": "CAPSULE 10 MG",
+    "price": "3.01 ₹(1 Capsule)"
+  },
+  {
+    "name": "CETIRIZINE",
+    "dosage": "TABLET 10 MG",
+    "price": "1.62 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "CETIRIZINE",
+    "dosage": "TABLET 10 MG",
+    "price": "1.91 ₹(1 Tablet)"
+  },
+  {
+    "name": "CETIRIZINE",
+    "dosage": "SUSPENSION 5 MG",
+    "price": "0.67 ₹(1 ML)"
+  },
+  {
+    "name": "CETIRIZINE",
+    "dosage": "ORAL LIQUID 5 MG/ 5 ML",
+    "price": "0.65 ₹(1 ML)"
+  },
+  {
+    "name": "CETRIMIDE",
+    "dosage": "SOLUTION (CONCENTRATE FOR DILUTION) 20%",
+    "price": "0.35 ₹(1 ML)"
+  },
+  {
+    "name": "CHLORAMBUCIL",
+    "dosage": "TABLET 2 MG",
+    "price": "31.70 ₹(1 Tablet)"
+  },
+  {
+    "name": "CHLORAMBUCIL",
+    "dosage": "TABLET 5 MG",
+    "price": "78.55 ₹(1 Tablet)"
+  },
+  {
+    "name": "CHLORHEXIDINE",
+    "dosage": "SOLUTION (CONCENTRATE FOR DILUTION) 5%",
+    "price": "0.19 ₹(1 ML)"
+  },
+  {
+    "name": "CHLOROQUINE",
+    "dosage": "TABLET 150 MG",
+    "price": "1.35 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "CHLOROQUINE",
+    "dosage": "TABLET 150 MG",
+    "price": "1.33 ₹(1 Tablet)"
+  },
+  {
+    "name": "CHLOROQUINE",
+    "dosage": "SUSPENSION 50 MG",
+    "price": "0.35 ₹(1 ML)"
+  },
+  {
+    "name": "CHLORPHENIRAMINE",
+    "dosage": "TABLET 4 MG",
+    "price": "0.10 ₹(1 Tablet)"
+  },
+  {
+    "name": "CIPROFLOXACIN",
+    "dosage": "DROPS 0.3 %",
+    "price": "1.57 ₹(1 ML)"
+  },
+  {
+    "name": "CIPROFLOXACIN",
+    "dosage": "OINTMENT 0.3 %",
+    "price": "1.31 ₹(1 GM)"
+  },
+  {
+    "name": "CIPROFLOXACIN",
+    "dosage": "INJECTION 200MG/100ML IN 100ML PACK FOR PACKAGES IN NON-GLASS CONTAINER",
+    "price": "0.23 ₹(1 ML)("
+  },
+  {
+    "name": "CIPROFLOXACIN",
+    "dosage": "INJECTION 200 MG/ 100 ML",
+    "price": "0.20 ₹(1 ML)"
+  },
+  {
+    "name": "CIPROFLOXACIN",
+    "dosage": "ORAL SUSPENSION 250 MG",
+    "price": "0.75 ₹(1 ML)"
+  },
+  {
+    "name": "CIPROFLOXACIN",
+    "dosage": "TABLET 250 MG",
+    "price": "2.24 ₹(1 Tablet)"
+  },
+  {
+    "name": "CIPROFLOXACIN",
+    "dosage": "TABLET 500 MG",
+    "price": "3.64 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "CIPROFLOXACIN",
+    "dosage": "TABLET 500 MG",
+    "price": "4.32 ₹(1 Tablet)"
+  },
+  {
+    "name": "CIPROFLOXACIN",
+    "dosage": "OINTMENT 0.30%",
+    "price": "1.26 ₹(1 GM)"
+  },
+  {
+    "name": "CISPLATIN",
+    "dosage": "INJECTION 1 MG",
+    "price": "7.21 ₹(1 ML)"
+  },
+  {
+    "name": "CLARITHROMYCIN",
+    "dosage": "SUSPENSION 125 MG",
+    "price": "4.73 ₹(1 ML)("
+  },
+  {
+    "name": "CLARITHROMYCIN",
+    "dosage": "SUSPENSION 125 MG",
+    "price": "4.61 ₹(1 ML)"
+  },
+  {
+    "name": "CLARITHROMYCIN",
+    "dosage": "TABLET 250 MG",
+    "price": "24.06 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLARITHROMYCIN",
+    "dosage": "TABLET 250 MG",
+    "price": "24.48 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "CLARITHROMYCIN",
+    "dosage": "TABLET 500 MG",
+    "price": "40.53 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLINDAMYCIN",
+    "dosage": "CAPSULE 150 MG",
+    "price": "16.64 ₹(1"
+  },
+  {
+    "name": "CLINDAMYCIN",
+    "dosage": "INJECTION 150 MG",
+    "price": "61.65 ₹(1 ML)"
+  },
+  {
+    "name": "CLINDAMYCIN",
+    "dosage": "CAPSULE 300 MG",
+    "price": "28.86 ₹(1"
+  },
+  {
+    "name": "CLINDAMYCIN",
+    "dosage": "TABLET 300 MG",
+    "price": "19.30 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOBAZAM",
+    "dosage": "TABLET 10 MG",
+    "price": "10.01 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOBAZAM",
+    "dosage": "TABLET 5 MG",
+    "price": "5.83 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOFAZIMINE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "4.05 ₹(1 Capsule)"
+  },
+  {
+    "name": "CLOFAZIMINE",
+    "dosage": "CAPSULE 50 MG",
+    "price": "2.15 ₹(1 Capsule)"
+  },
+  {
+    "name": "CLOMIFENE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "52.03 ₹(1"
+  },
+  {
+    "name": "CLOMIPHENE",
+    "dosage": "TABLET 100 MG",
+    "price": "14.19 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOMIFENE",
+    "dosage": "CAPSULE 50 MG",
+    "price": "27.85 ₹(1"
+  },
+  {
+    "name": "CLOMIPHENE",
+    "dosage": "TABLET 50 MG",
+    "price": "8.99 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOMIPRAMINE",
+    "dosage": "TABLET 10 MG",
+    "price": "2.90 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOMIPRAMINE",
+    "dosage": "TABLET 25 MG",
+    "price": "6.33 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOMIPRAMINE",
+    "dosage": "TABLET 75 MG",
+    "price": "16.75 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLONAZEPAM",
+    "dosage": "TABLET 0.25 MG",
+    "price": "2.06 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLONAZEPAM",
+    "dosage": "TABLET 0.25 MG",
+    "price": "1.82 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "CLONAZEPAM",
+    "dosage": "TABLET 0.5 MG",
+    "price": "3.51 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLONAZEPAM",
+    "dosage": "TABLET 1 MG",
+    "price": "4.85 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOPIDOGREL",
+    "dosage": "TABLET 150 MG",
+    "price": "20.84 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOPIDOGREL",
+    "dosage": "TABLET 75 MG",
+    "price": "6.93 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "CLOPIDOGREL",
+    "dosage": "TABLET 75 MG",
+    "price": "6.78 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOTRIMAZOLE",
+    "dosage": "PESSARY 100 MG",
+    "price": "10.18 ₹(1"
+  },
+  {
+    "name": "CLOTRIMAZOLE",
+    "dosage": "CREAM 1 %",
+    "price": "3.05 ₹(1 GM)"
+  },
+  {
+    "name": "CLOTRIMAZOLE",
+    "dosage": "EAR DROPS 1 %",
+    "price": "3.43 ₹(1 ML)"
+  },
+  {
+    "name": "CLOTRIMAZOLE",
+    "dosage": "LOTION 1 %",
+    "price": "3.96 ₹(1 ML)"
+  },
+  {
+    "name": "CLOTRIMAZOLE",
+    "dosage": "LOTION 1%",
+    "price": "3.57 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "CLOXACILLIN",
+    "dosage": "CAPSULE 250 MG",
+    "price": "1.43 ₹(1 Capsule)"
+  },
+  {
+    "name": "CLOXACILLIN",
+    "dosage": "POWDER 250 MG",
+    "price": "5.63 ₹(Each Pack)"
+  },
+  {
+    "name": "CLOXACILLIN",
+    "dosage": "TABLET 250 MG",
+    "price": "2.15 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOXACILLIN",
+    "dosage": "CAPSULE 500 MG",
+    "price": "2.42 ₹(1 Capsule)"
+  },
+  {
+    "name": "CLOZAPINE",
+    "dosage": "TABLET 100 MG",
+    "price": "7.72 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "CLOZAPINE",
+    "dosage": "TABLET 100 MG",
+    "price": "8.60 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOZAPINE",
+    "dosage": "TABLET 25 MG",
+    "price": "2.83 ₹(1 Tablet)"
+  },
+  {
+    "name": "CLOZAPINE",
+    "dosage": "TABLET 50 MG",
+    "price": "5.28 ₹(1 Tablet)"
+  },
+  {
+    "name": "COAGULATION FACTOR IX",
+    "dosage": "POWDER FOR INJECTION 600 IU",
+    "price": "15606.71 ₹(Each"
+  },
+  {
+    "name": "COAGULATION FACTOR VIII",
+    "dosage": "POWDER FOR INJECTION 250 IU",
+    "price": "4731.08 ₹(Each Pack)"
+  },
+  {
+    "name": "COAGULATION FACTOR VIII",
+    "dosage": "POWDER FOR INJECTION 500 IU",
+    "price": "11609.72 ₹(Each"
+  },
+  {
+    "name": "COLCHICINE",
+    "dosage": "TABLET 0.5 MG",
+    "price": "3.32 ₹(1 Tablet)"
+  },
+  {
+    "name": "CONDOM",
+    "dosage": "CONDOM",
+    "price": "11.57 ₹(1"
+  },
+  {
+    "name": "CYCLOPHOSPHAMIDE",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "74.76 ₹(Each Vial)"
+  },
+  {
+    "name": "CYCLOPHOSPHAMIDE",
+    "dosage": "TABLET 50 MG",
+    "price": "3.79 ₹(1 Tablet)"
+  },
+  {
+    "name": "CYCLOSERINE",
+    "dosage": "CAPSULE 250 MG",
+    "price": "60.22 ₹(1"
+  },
+  {
+    "name": "CYCLOSERINE",
+    "dosage": "TABLET 250 MG",
+    "price": "46.81 ₹(1 Tablet)"
+  },
+  {
+    "name": "CYCLOSPORINE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "104.91 ₹(1"
+  },
+  {
+    "name": "CYCLOSPORINE",
+    "dosage": "ORAL LIQUID 100 MG/ML",
+    "price": "81.98 ₹(1 ML)"
+  },
+  {
+    "name": "CYCLOSPORINE",
+    "dosage": "CAPSULE 25 MG",
+    "price": "28.53 ₹(1"
+  },
+  {
+    "name": "CYCLOSPORINE",
+    "dosage": "CAPSULE 50 MG",
+    "price": "56.07 ₹(1"
+  },
+  {
+    "name": "CYCLOSPORINE",
+    "dosage": "INJECTION 50 MG/ML",
+    "price": "341.64 ₹(1 ML)"
+  },
+  {
+    "name": "CYTOSINE ARABINOSIDE",
+    "dosage": "INJECTION 1000 MG",
+    "price": "1150.00 ₹(Each Vial)"
+  },
+  {
+    "name": "CYTOSINE ARABINOSIDE",
+    "dosage": "INJECTION 100 MG",
+    "price": "142.02 ₹(Each Vial)"
+  },
+  {
+    "name": "CYTOSINE ARABINOSIDE",
+    "dosage": "INJECTION 500 MG",
+    "price": "545.66 ₹(Each Vial)"
+  },
+  {
+    "name": "DABIGATRAN",
+    "dosage": "CAPSULE 110 MG",
+    "price": "32.36 ₹(1"
+  },
+  {
+    "name": "DABIGATRAN",
+    "dosage": "CAPSULE 150 MG",
+    "price": "36.21 ₹(1"
+  },
+  {
+    "name": "DACARBAZINE",
+    "dosage": "POWDER FOR INJECTION 200 MG",
+    "price": "388.39 ₹(Each Vial)"
+  },
+  {
+    "name": "DACARBAZINE",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "527.86 ₹(Each Vial)"
+  },
+  {
+    "name": "DACLATASVIR",
+    "dosage": "TABLET 60 MG",
+    "price": "203.45 ₹(1 Tablet)"
+  },
+  {
+    "name": "ACTINOMYCIN D",
+    "dosage": "POWDER FOR INJECTION",
+    "price": "0.5 MG"
+  },
+  {
+    "name": "DAPSONE",
+    "dosage": "TABLET 100 MG",
+    "price": "0.42 ₹(1 Tablet)"
+  },
+  {
+    "name": "DAPSONE",
+    "dosage": "TABLET 50 MG",
+    "price": "0.30 ₹(1 Tablet)"
+  },
+  {
+    "name": "DARUNAVIR",
+    "dosage": "TABLET 600 MG",
+    "price": "157.13 ₹(1 Tablet)"
+  },
+  {
+    "name": "DARUNAVIR + RITONAVIR",
+    "dosage": "TABLET 600/100 MG",
+    "price": "149.01 ₹(1 Tablet)"
+  },
+  {
+    "name": "DAUNORUBICIN",
+    "dosage": "POWDER FOR INJECTION 20 MG",
+    "price": "308.03 ₹(Each Pack)"
+  },
+  {
+    "name": "DESFERRIOXAMINE",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "188.65 ₹(Each Vial)"
+  },
+  {
+    "name": "DESFERRIOXAMINE",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "287.90 ₹(Each Vial)( Pack)"
+  },
+  {
+    "name": "DRUG ELUTING STENTS (DES) INCLUDING METALLIC DES AND BIORESORBABLE VASCULAR SCAFFOLD (BVS)/ BIODEGRADABLE STENTS",
+    "dosage": "DEVICE --",
+    "price": "38933.14 ₹(1"
+  },
+  {
+    "name": "DEXAMETHASONE",
+    "dosage": "TABLET 0.5 MG",
+    "price": "0.22 ₹(1 Tablet)"
+  },
+  {
+    "name": "DEXAMETHASONE",
+    "dosage": "TABLET 0.5 MG",
+    "price": "0.19 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "DEXAMETHASONE",
+    "dosage": "INJECTION 4 MG/ML",
+    "price": "9.29 ₹(Each Pack"
+  },
+  {
+    "name": "DEXAMETHASONE",
+    "dosage": "INJECTION 4 MG/ML",
+    "price": "2.61 ₹(1 ML)"
+  },
+  {
+    "name": "DEXAMETHASONE",
+    "dosage": "TABLET 4 MG",
+    "price": "4.70 ₹(1 Tablet)"
+  },
+  {
+    "name": "DIAZEPAM",
+    "dosage": "TABLET 2 MG",
+    "price": "1.47 ₹(1 Tablet)"
+  },
+  {
+    "name": "DIAZEPAM",
+    "dosage": "INJECTION 5 MG/ML",
+    "price": "5.64 ₹(1 ML)"
+  },
+  {
+    "name": "DIAZEPAM",
+    "dosage": "SUPPOSITORY 5 MG",
+    "price": "6.30 ₹(1"
+  },
+  {
+    "name": "DIAZEPAM",
+    "dosage": "TABLET 5 MG",
+    "price": "1.66 ₹(1 Tablet)"
+  },
+  {
+    "name": "DIAZEPAM",
+    "dosage": "ORAL LIQUID 2 MG/5ML",
+    "price": "3.46 ₹(1 ML)"
+  },
+  {
+    "name": "DICLOFENAC",
+    "dosage": "INJECTION 25 MG/ML",
+    "price": "1.72 ₹(1 ML)"
+  },
+  {
+    "name": "DICLOFENAC",
+    "dosage": "CAPSULE 50 MG",
+    "price": "0.77 ₹(1 Capsule)"
+  },
+  {
+    "name": "DICLOFENAC",
+    "dosage": "TABLET 50 MG",
+    "price": "2.09 ₹(1 Tablet)"
+  },
+  {
+    "name": "DICYCLOMINE",
+    "dosage": "INJECTION 10 MG",
+    "price": "2.14 ₹(1 ML (10"
+  },
+  {
+    "name": "DICYCLOMINE",
+    "dosage": "INJECTION 10 MG/ML (10ML & 30ML PACK)",
+    "price": "3.54 ₹(1 ML)(1 ML, 2 ML Pack)"
+  },
+  {
+    "name": "DICYCLOMINE",
+    "dosage": "INJECTION 10 MG/ML (10ML & 30ML PACK)",
+    "price": "2.28 ₹(1 ML)(10 ML,30 ML Pack)"
+  },
+  {
+    "name": "DICYCLOMINE",
+    "dosage": "INJECTION 10 MG/ML (1ML & 2ML PACK)",
+    "price": "0.20 ₹(1 ML)"
+  },
+  {
+    "name": "DICYCLOMINE",
+    "dosage": "TABLET 10 MG",
+    "price": "0.13 ₹(1 Tablet)"
+  },
+  {
+    "name": "DIETHYLCARBAMAZINE",
+    "dosage": "TABLET 100 MG",
+    "price": "1.70 ₹(1 Tablet)"
+  },
+  {
+    "name": "DIETHYLCARBAMAZINE",
+    "dosage": "SYRUP 120 MG",
+    "price": "0.49 ₹(1 ML)"
+  },
+  {
+    "name": "DIETHYLCARBAMAZINE",
+    "dosage": "TABLET 50 MG",
+    "price": "0.57 ₹(1 Tablet)"
+  },
+  {
+    "name": "DIGOXIN",
+    "dosage": "ORAL LIQUID 0.05 MG/ML",
+    "price": "1.50 ₹(1 ML)"
+  },
+  {
+    "name": "DIGOXIN",
+    "dosage": "INJECTION 0.25 MG/ML",
+    "price": "3.94 ₹(1 ML)"
+  },
+  {
+    "name": "DIGOXIN",
+    "dosage": "TABLET 0.25 MG",
+    "price": "1.35 ₹(1 Tablet)"
+  },
+  {
+    "name": "DILOXANIDE FUROATE",
+    "dosage": "TABLET 500 MG",
+    "price": "1.17 ₹(1 Tablet)"
+  },
+  {
+    "name": "DILTIAZEM",
+    "dosage": "TABLET 30 MG",
+    "price": "2.73 ₹(1 Tablet)"
+  },
+  {
+    "name": "DILTIAZEM",
+    "dosage": "INJECTION 5 MG/ML",
+    "price": "3.56 ₹(1 ML)"
+  },
+  {
+    "name": "DILTIAZEM",
+    "dosage": "TABLET 60 MG",
+    "price": "5.56 ₹(1 Tablet)"
+  },
+  {
+    "name": "DILTIAZEM",
+    "dosage": "CAPSULE 90 MG",
+    "price": "10.67 ₹(1"
+  },
+  {
+    "name": "DILTIAZEM",
+    "dosage": "SR TABLET 90 MG",
+    "price": "10.36 ₹(1 Tablet)"
+  },
+  {
+    "name": "DIMERCAPROL",
+    "dosage": "INJECTION 50 MG/ML",
+    "price": "222.22 ₹(1 ML)"
+  },
+  {
+    "name": "DINOPROSTONE",
+    "dosage": "GEL 0.5 MG",
+    "price": "86.19 ₹(1 GM)"
+  },
+  {
+    "name": "DINOPROSTONE",
+    "dosage": "TABLET 0.5 MG",
+    "price": "63.39 ₹(1 Tablet)"
+  },
+  {
+    "name": "DIPHTHERIA ANTITOXIN",
+    "dosage": "INJECTION 10000 IU",
+    "price": "1660.10 ₹(Each Pack)"
+  },
+  {
+    "name": "DOBUTAMINE",
+    "dosage": "INJECTION 50 MG/ML",
+    "price": "9.19 ₹(1 ML)"
+  },
+  {
+    "name": "DOCETAXEL",
+    "dosage": "POWDER FOR INJECTION 20 MG",
+    "price": "2984.59 ₹(Each Pack)( Pack)"
+  },
+  {
+    "name": "DOCETAXEL",
+    "dosage": "POWDER FOR INJECTION 20 MG",
+    "price": "2918.30 ₹(Each Vial)"
+  },
+  {
+    "name": "DOCETAXEL",
+    "dosage": "POWDER FOR INJECTION 80 MG",
+    "price": "10513.51 ₹(Each"
+  },
+  {
+    "name": "DOLUTEGRAVIR",
+    "dosage": "TABLET 50 MG",
+    "price": "114.74 ₹(1 Tablet)"
+  },
+  {
+    "name": "DOLUTEGRAVIR + LAMIVUDINE + TENOFOVIR",
+    "dosage": "TABLET 50/300/300 MG",
+    "price": "116.98 ₹(1 Tablet)"
+  },
+  {
+    "name": "DOMPERIDONE",
+    "dosage": "TABLET 10 MG",
+    "price": "2.35 ₹(1 Tablet)"
+  },
+  {
+    "name": "DOMPERIDONE",
+    "dosage": "ORAL LIQUID 1 MG/ML",
+    "price": "1.26 ₹(1 ML)"
+  },
+  {
+    "name": "DONEPEZIL",
+    "dosage": "TABLET 10 MG",
+    "price": "17.76 ₹(1 Tablet)"
+  },
+  {
+    "name": "DONEPEZIL",
+    "dosage": "TABLET 5 MG",
+    "price": "12.32 ₹(1 Tablet)"
+  },
+  {
+    "name": "DOPAMINE",
+    "dosage": "INJECTION 40 MG/ML",
+    "price": "4.85 ₹(1 ML)"
+  },
+  {
+    "name": "DOXORUBICIN",
+    "dosage": "INJECTION 2 MG/ML",
+    "price": "32.30 ₹(1 ML)"
+  },
+  {
+    "name": "DOXYCYCLINE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "2.50 ₹(1 Capsule) ( Pack)"
+  },
+  {
+    "name": "DOXYCYCLINE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "3.13 ₹(1 Capsule)"
+  },
+  {
+    "name": "DOXYCYCLINE",
+    "dosage": "INJECTION 100 MG",
+    "price": "511.38 ₹(Each Vial)"
+  },
+  {
+    "name": "DOXYCYCLINE",
+    "dosage": "TABLET 100 MG",
+    "price": "1.24 ₹(1 Tablet)"
+  },
+  {
+    "name": "DOXYCYCLINE",
+    "dosage": "TABLET 100 MG",
+    "price": "0.97 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "DPT + HIB + HEP B",
+    "dosage": "VACCINE --",
+    "price": "76.97 ₹(Per 0.1"
+  },
+  {
+    "name": "DPT VACCINE",
+    "dosage": "VACCINE",
+    "price": "17.95 ₹(Per 0.5"
+  },
+  {
+    "name": "EFAVIRENZ",
+    "dosage": "CAPSULE 200 MG",
+    "price": "22.36 ₹(1"
+  },
+  {
+    "name": "EFAVIRENZ",
+    "dosage": "TABLET 200 MG",
+    "price": "22.93 ₹(1 Tablet)"
+  },
+  {
+    "name": "EFAVIRENZ",
+    "dosage": "CAPSULE 600 MG",
+    "price": "56.66 ₹(1"
+  },
+  {
+    "name": "EFAVIRENZ",
+    "dosage": "TABLET 600 MG",
+    "price": "71.82 ₹(1 Tablet)"
+  },
+  {
+    "name": "ENALAPRIL",
+    "dosage": "TABLET 2.5 MG",
+    "price": "2.23 ₹(1 Tablet)"
+  },
+  {
+    "name": "ENALAPRIL",
+    "dosage": "TABLET 5 MG",
+    "price": "3.76 ₹(1 Tablet)"
+  },
+  {
+    "name": "ENOXAPARIN",
+    "dosage": "INJECTION 40 MG/ 0.4 ML",
+    "price": "113.93 ₹(0.1 ml)"
+  },
+  {
+    "name": "ENOXAPARIN",
+    "dosage": "INJECTION 60 MG/ 0.6 ML",
+    "price": "113.93 ₹(0.1 ml)"
+  },
+  {
+    "name": "ENTECAVIR",
+    "dosage": "TABLET 0.5 MG",
+    "price": "85.91 ₹(1 Tablet)"
+  },
+  {
+    "name": "ENTECAVIR",
+    "dosage": "TABLET 1 MG",
+    "price": "132.50 ₹(1 Tablet)"
+  },
+  {
+    "name": "ERYTHROPOIETIN",
+    "dosage": "INJECTION 10000 IU/ML",
+    "price": "2003.37 ₹(1 ML)"
+  },
+  {
+    "name": "ERYTHROPOIETIN",
+    "dosage": "INJECTION 2000 IU/ML",
+    "price": "559.14 ₹(1 ML)"
+  },
+  {
+    "name": "ESCITALOPRAM",
+    "dosage": "TABLET 10 MG",
+    "price": "9.16 ₹(1 Tablet)"
+  },
+  {
+    "name": "ESCITALOPRAM",
+    "dosage": "TABLET 20 MG",
+    "price": "14.61 ₹(1 Tablet)"
+  },
+  {
+    "name": "ESCITALOPRAM",
+    "dosage": "TABLET 5 MG",
+    "price": "5.11 ₹(1 Tablet)"
+  },
+  {
+    "name": "ESMOLOL",
+    "dosage": "INJECTION 10 MG/ML",
+    "price": "26.84 ₹(1 ML)"
+  },
+  {
+    "name": "ETHAMBUTOL",
+    "dosage": "TABLET 200 MG",
+    "price": "1.16 ₹(1 Tablet)"
+  },
+  {
+    "name": "ETHAMBUTOL",
+    "dosage": "TABLET 400 MG",
+    "price": "2.66 ₹(1 Tablet)"
+  },
+  {
+    "name": "ETHAMBUTOL",
+    "dosage": "TABLET 600 MG",
+    "price": "4.15 ₹(1 Tablet)"
+  },
+  {
+    "name": "ETHAMBUTOL",
+    "dosage": "TABLET 800 MG",
+    "price": "5.05 ₹(1 Tablet)"
+  },
+  {
+    "name": "ETHINYLESTRADIOL",
+    "dosage": "TABLET 0.01 MG",
+    "price": "2.60 ₹(1 Tablet)"
+  },
+  {
+    "name": "ETHINYLESTRADIOL",
+    "dosage": "TABLET 0.05 MG",
+    "price": "4.16 ₹(1 Tablet)"
+  },
+  {
+    "name": "ETHINYLESTRADIOL (A)+LEVONORGESTREL (B)",
+    "dosage": "TABLET 0.03 MG(A) +",
+    "price": "0.15 MG(B)"
+  },
+  {
+    "name": "ETHIONAMIDE",
+    "dosage": "TABLET 250 MG",
+    "price": "15.07 ₹(1 Tablet)"
+  },
+  {
+    "name": "ETHYL ALCOHOL (DENATURED)",
+    "dosage": "SOLUTION 70%",
+    "price": "0.54 ₹(1 ML)"
+  },
+  {
+    "name": "ETOPOSIDE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "67.22 ₹(1"
+  },
+  {
+    "name": "ETOPOSIDE",
+    "dosage": "INJECTION 20 MG/ML",
+    "price": "35.11 ₹(1 ML)"
+  },
+  {
+    "name": "ETOPOSIDE",
+    "dosage": "CAPSULE 50 MG",
+    "price": "57.62 ₹(1"
+  },
+  {
+    "name": "FENTANYL",
+    "dosage": "INJECTION 50 MCG/ML",
+    "price": "21.32 ₹(1 ML)"
+  },
+  {
+    "name": "FERROUS SALT (A) + FOLIC ACID (B)",
+    "dosage": "TABLET 100 MG ELEMENTAL IRON (A) + 500MCG (B)",
+    "price": "0.28 ₹(1 Tablet)"
+  },
+  {
+    "name": "FILGRASTIM",
+    "dosage": "INJECTION 300 MCG",
+    "price": "1180.16 ₹(Each Vial)"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "21.77 ₹(1"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "TABLET 100 MG",
+    "price": "7.75 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "CAPSULE 150 MG",
+    "price": "19.55 ₹(1"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "TABLET 150 MG",
+    "price": "12.27 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "TABLET 150 MG",
+    "price": "23.18 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "CAPSULE 200 MG",
+    "price": "40.81 ₹(1"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "INJECTION 200 MG/ 100 ML",
+    "price": "93.94 ₹(Each Vial)"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "TABLET 200 MG",
+    "price": "17.76 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "TABLET 200 MG",
+    "price": "18.73 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "TABLET 400 MG",
+    "price": "30.27 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "TABLET 400 MG",
+    "price": "31.15 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "ORAL LIQUID 50 MG/ 5 ML",
+    "price": "3.31 ₹(1 ML)"
+  },
+  {
+    "name": "FLUCONAZOLE",
+    "dosage": "TABLET 50 MG",
+    "price": "9.85 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUDROCORTISONE",
+    "dosage": "TABLET 100 MCG",
+    "price": "13.43 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUNARIZINE",
+    "dosage": "TABLET 10 MG",
+    "price": "4.90 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUNARIZINE",
+    "dosage": "TABLET 5 MG",
+    "price": "2.52 ₹(1 Tablet)"
+  },
+  {
+    "name": "5-FLUOROURACIL",
+    "dosage": "INJECTION 250 MG/ 5 ML",
+    "price": "2.08 ₹(1 ML)"
+  },
+  {
+    "name": "FLUOXETINE",
+    "dosage": "CAPSULE 10 MG",
+    "price": "3.38 ₹(1 Capsule)"
+  },
+  {
+    "name": "FLUOXETINE",
+    "dosage": "TABLET 10 MG",
+    "price": "2.83 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUOXETINE",
+    "dosage": "CAPSULE 20 MG",
+    "price": "4.06 ₹(1 Capsule)"
+  },
+  {
+    "name": "FLUOXETINE",
+    "dosage": "TABLET 20 MG",
+    "price": "4.22 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUOXETINE",
+    "dosage": "CAPSULE 40 MG",
+    "price": "6.60 ₹(1 Capsule)"
+  },
+  {
+    "name": "FLUOXETINE",
+    "dosage": "TABLET 40 MG",
+    "price": "5.66 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUOXETINE",
+    "dosage": "CAPSULE 60 MG",
+    "price": "11.29 ₹(1"
+  },
+  {
+    "name": "FLUOXETINE",
+    "dosage": "TABLET 60 MG",
+    "price": "8.39 ₹(1 Tablet)"
+  },
+  {
+    "name": "FLUPHENAZINE",
+    "dosage": "INJECTION 25 MG",
+    "price": "56.22 ₹(1 ML)"
+  },
+  {
+    "name": "FOLIC ACID",
+    "dosage": "CAPSULE 5 MG",
+    "price": "5.13 ₹(1 Capsule)"
+  },
+  {
+    "name": "FOLIC ACID",
+    "dosage": "TABLET 5 MG",
+    "price": "1.54 ₹(1 Tablet)"
+  },
+  {
+    "name": "FORMOTERAL + BUDESONIDE",
+    "dosage": "CAPSULE 6/100 MCG",
+    "price": "4.40 ₹(Per Dose)"
+  },
+  {
+    "name": "FORMOTERAL + BUDESONIDE",
+    "dosage": "INHALER 6/100 MCG",
+    "price": "2.16 ₹(Per Metered Dose)"
+  },
+  {
+    "name": "BUDESONIDE (A)+ FORMOTEROL (B)",
+    "dosage": "INHALATION 200 MCG",
+    "price": "(A) + 6 MCG (B)"
+  },
+  {
+    "name": "FORMOTERAL + BUDESONIDE",
+    "dosage": "INHALER 6/200 MCG",
+    "price": "5.82 ₹(Per Dose)"
+  },
+  {
+    "name": "FORMOTERAL + BUDESONIDE",
+    "dosage": "INHALER 6/200 MCG",
+    "price": "3.01 ₹(Per Metered Dose)( Pack)"
+  },
+  {
+    "name": "FORMOTERAL + BUDESONIDE",
+    "dosage": "INHALER 6/400 MCG",
+    "price": "3.43 ₹(Per Metered Dose)( Pack)"
+  },
+  {
+    "name": "FORMOTERAL + BUDESONIDE",
+    "dosage": "INHALER 6/400 MCG",
+    "price": "7.07 ₹(Per Dose)"
+  },
+  {
+    "name": "FRAMYCETIN SULPHATE",
+    "dosage": "CREAM 0.50%",
+    "price": "1.19 ₹(1 GM)"
+  },
+  {
+    "name": "FRAMYCETIN",
+    "dosage": "CREAM 1 %",
+    "price": "1.69 ₹(1 GM)"
+  },
+  {
+    "name": "FUROSEMIDE",
+    "dosage": "INJECTION 10 MG/ML",
+    "price": "3.04 ₹(1 ML)"
+  },
+  {
+    "name": "FUROSEMIDE",
+    "dosage": "ORAL LIQUID 10 MG/ML",
+    "price": "3.38 ₹(1 ML)"
+  },
+  {
+    "name": "FUROSEMIDE",
+    "dosage": "TABLET 40 MG",
+    "price": "0.93 ₹(1 Tablet)"
+  },
+  {
+    "name": "FUSIDIC ACID",
+    "dosage": "CREAM 2 %",
+    "price": "10.00 ₹(1 GM)"
+  },
+  {
+    "name": "GADOBENATE",
+    "dosage": "INJECTION 529 MG",
+    "price": "138.05 ₹(1 ML)"
+  },
+  {
+    "name": "GANCICLOVIR",
+    "dosage": "CAPSULE 250 MG",
+    "price": "133.48 ₹(1"
+  },
+  {
+    "name": "GANCICLOVIR",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "1873.81 ₹(Each Pack)"
+  },
+  {
+    "name": "GEFITINIB",
+    "dosage": "TABLET 250 MG",
+    "price": "241.27 ₹(1 Tablet)"
+  },
+  {
+    "name": "GEMCITABINE",
+    "dosage": "POWDER FOR INJECTION 1000 MG",
+    "price": "5689.87 ₹(Each Vial)"
+  },
+  {
+    "name": "GEMCITABINE",
+    "dosage": "POWDER FOR INJECTION 200 MG",
+    "price": "1322.42 ₹(Each Vial)"
+  },
+  {
+    "name": "GENTAMICIN",
+    "dosage": "DROPS 3%",
+    "price": "1.01 ₹(1 ML)"
+  },
+  {
+    "name": "GENTAMICIN",
+    "dosage": "INJECTION 10 MG",
+    "price": "2.45 ₹(1 ML)"
+  },
+  {
+    "name": "GENTAMICIN",
+    "dosage": "INJECTION 40 MG",
+    "price": "1.58 ₹(Each Pack"
+  },
+  {
+    "name": "GENTIAN VIOLET",
+    "dosage": "PAINT 1 %",
+    "price": "0.10 ₹(1 ML)"
+  },
+  {
+    "name": "GLARGINE",
+    "dosage": "DISPOSABLE PEN 100 IU",
+    "price": "248.39 ₹(1 ML)"
+  },
+  {
+    "name": "GLARGINE",
+    "dosage": "INJECTION 100 IU",
+    "price": "207.00 ₹(1 ML)"
+  },
+  {
+    "name": "GLIMEPIRIDE",
+    "dosage": "TABLET 1 MG",
+    "price": "3.76 ₹(1 Tablet)"
+  },
+  {
+    "name": "GLIMEPIRIDE",
+    "dosage": "TABLET 2 MG",
+    "price": "5.90 ₹(1 Tablet)"
+  },
+  {
+    "name": "GLUCOSE",
+    "dosage": "INJECTION 10%",
+    "price": "35.58 ₹(Each"
+  },
+  {
+    "name": "GLUCOSE",
+    "dosage": "INJECTION 25% IN 100 ML PACK FOR PACKAGES IN NON-GLASS CONTAINER",
+    "price": "0.24 ₹(1 ML)"
+  },
+  {
+    "name": "GLUCOSE",
+    "dosage": "INJECTION 25 % IN 500ML PACK FOR PACKAGES IN NON- GLASS CONTAINER",
+    "price": "0.24 ₹(1 ML)("
+  },
+  {
+    "name": "GLUCOSE",
+    "dosage": "INFUSION 25 %",
+    "price": "0.20 ₹(1 ML)"
+  },
+  {
+    "name": "GLUCOSE",
+    "dosage": "INJECTION 5%",
+    "price": "38.64 ₹(500ml"
+  },
+  {
+    "name": "GLUCOSE (A) + SODIUM CHLORIDE (B)",
+    "dosage": "INJECTION 5% (A) + 0.9% (B)",
+    "price": "87.01 ₹(500ml"
+  },
+  {
+    "name": "GLUTARALDEHYDE",
+    "dosage": "SOLUTION 2%",
+    "price": "0.08 ₹(1 ML)"
+  },
+  {
+    "name": "GLYCERIN",
+    "dosage": "ORAL LIQUID --",
+    "price": "0.17 ₹(1 ML)"
+  },
+  {
+    "name": "GLYCEROL",
+    "dosage": "CREAM 15 %",
+    "price": "2.41 ₹(1 GM)"
+  },
+  {
+    "name": "GLYCEROL",
+    "dosage": "LOTION 15 %",
+    "price": "1.25 ₹(1 ML)"
+  },
+  {
+    "name": "GLYCERYL TRINITRATE",
+    "dosage": "SUBLINGUAL TABLET 0.5 MG",
+    "price": "1.29 ₹(1 Tablet)"
+  },
+  {
+    "name": "GLYCERYL TRINITRATE",
+    "dosage": "INJECTION 5 MG/ML",
+    "price": "6.30 ₹(1 ML)"
+  },
+  {
+    "name": "GLYCOPYRROLATE",
+    "dosage": "INJECTION 0.2 MG/ML",
+    "price": "14.78 ₹(1 ML)"
+  },
+  {
+    "name": "GRISEOFULVIN",
+    "dosage": "TABLET 125 MG",
+    "price": "1.04 ₹(1 Tablet)"
+  },
+  {
+    "name": "GRISEOFULVIN",
+    "dosage": "TABLET 250 MG",
+    "price": "1.80 ₹(1 Tablet)"
+  },
+  {
+    "name": "GRISEOFULVIN",
+    "dosage": "TABLET 250 MG",
+    "price": "1.59 ₹(1 ML)("
+  },
+  {
+    "name": "GRISEOFULVIN",
+    "dosage": "TABLET 375 MG",
+    "price": "5.44 ₹(1 Tablet)"
+  },
+  {
+    "name": "HAEMODIALYSIS FLUID",
+    "dosage": "AS LICENSED --",
+    "price": "0.04 ₹(1 ML)"
+  },
+  {
+    "name": "HALOPERIDOL",
+    "dosage": "TABLET 10 MG",
+    "price": "4.86 ₹(1 Tablet)"
+  },
+  {
+    "name": "HALOPERIDOL",
+    "dosage": "TABLET 1.5 MG",
+    "price": "1.61 ₹(1 Tablet)"
+  },
+  {
+    "name": "HALOPERIDOL",
+    "dosage": "TABLET 20 MG",
+    "price": "5.45 ₹(1 Tablet)"
+  },
+  {
+    "name": "HALOPERIDOL",
+    "dosage": "LIQUID 2 MG",
+    "price": "2.28 ₹(1 ML)"
+  },
+  {
+    "name": "HALOPERIDOL",
+    "dosage": "INJECTION 5 MG/ML",
+    "price": "6.62 ₹(1 ML)"
+  },
+  {
+    "name": "HALOPERIDOL",
+    "dosage": "TABLET 5 MG",
+    "price": "3.63 ₹(1 Tablet)"
+  },
+  {
+    "name": "HALOTHANE",
+    "dosage": "LIQUID 100 %",
+    "price": "6.21 ₹(1 ML)"
+  },
+  {
+    "name": "HALOTHANE",
+    "dosage": "INHALATION --",
+    "price": "6.50 ₹(1 ML)"
+  },
+  {
+    "name": "HEPATITIS B VACCINE",
+    "dosage": "INJECTION --",
+    "price": "86.95 ₹(1 ML)"
+  },
+  {
+    "name": "HEPATITIS B",
+    "dosage": "VACCINE --",
+    "price": "80.19 ₹(1 ML)"
+  },
+  {
+    "name": "HEPATITIS IMMUNOGLOBULIN",
+    "dosage": "INJECTION --",
+    "price": "5594.39 ₹(Each Vial)"
+  },
+  {
+    "name": "HOMATROPINE EYE DROPS / OINTMENT",
+    "dosage": "EYE DROPS 2 %",
+    "price": "6.51 ₹(1 ML)"
+  },
+  {
+    "name": "HUMAN CHORIONIC GONADOTROPIN",
+    "dosage": "INJECTION 10000 IU",
+    "price": "944.46 ₹(Each Vial)"
+  },
+  {
+    "name": "HUMAN CHORIONIC GONADOTROPIN",
+    "dosage": "INJECTION 1000 IU/ML",
+    "price": "235.98 ₹(Each Pack)"
+  },
+  {
+    "name": "HUMAN CHORIONIC GONADOTROPIN",
+    "dosage": "INJECTION 2000 IU",
+    "price": "349.63 ₹(Each Vial)"
+  },
+  {
+    "name": "HUMAN CHORIONIC GONADOTROPIN",
+    "dosage": "INJECTION 5000 IU/ML",
+    "price": "424.74 ₹(Each Vial)"
+  },
+  {
+    "name": "HUMAN NORMAL IMMUNOGLOBULIN",
+    "dosage": "SOLUTION FOR INFUSION 10%",
+    "price": "264.57 ₹(1 ML)"
+  },
+  {
+    "name": "HUMAN NORMAL IMMUNOGLOBULIN",
+    "dosage": "SOLUTION FOR INFUSION 16.50%",
+    "price": "503.13 ₹(1 ML)"
+  },
+  {
+    "name": "HUMAN NORMAL IMMUNOGLOBULIN",
+    "dosage": "SOLUTION FOR INFUSION 5%",
+    "price": "195.41 ₹(1 ML)"
+  },
+  {
+    "name": "HUMAN PREMIX INSULIN",
+    "dosage": "INJECTION 40 IU",
+    "price": "17.29 ₹(1 ML)"
+  },
+  {
+    "name": "HYDROCHLOROTHIAZIDE",
+    "dosage": "TABLET 12.5 MG",
+    "price": "1.06 ₹(1 Tablet)"
+  },
+  {
+    "name": "HYDROCHLOROTHIAZIDE",
+    "dosage": "TABLET 25 MG",
+    "price": "1.78 ₹(1 Tablet)"
+  },
+  {
+    "name": "HYDROCHLOROTHIAZIDE",
+    "dosage": "TABLET 50 MG",
+    "price": "0.10 ₹(1 Tablet)"
+  },
+  {
+    "name": "HYDROCORTISONE",
+    "dosage": "POWDER FOR INJECTION 100 MG",
+    "price": "45.57 ₹(Each Vial)"
+  },
+  {
+    "name": "HYDROCORTISONE",
+    "dosage": "TABLET 10 MG",
+    "price": "6.82 ₹(1 Tablet)"
+  },
+  {
+    "name": "HYDROCORTISONE",
+    "dosage": "INJECTION 200 MG",
+    "price": "66.74 ₹(Each Vial)"
+  },
+  {
+    "name": "HYDROCORTISONE",
+    "dosage": "TABLET 20 MG",
+    "price": "15.15 ₹(1 Tablet)"
+  },
+  {
+    "name": "HYDROCORTISONE",
+    "dosage": "TABLET 5 MG",
+    "price": "3.17 ₹(1 Tablet)"
+  },
+  {
+    "name": "HYDROGEN PEROXIDE",
+    "dosage": "SOLUTION 6%",
+    "price": "0.04 ₹(1 ML)"
+  },
+  {
+    "name": "HYDROXOCOBALAMIN",
+    "dosage": "INJECTION 1 MG/ML",
+    "price": "12.52 ₹(1 ML)"
+  },
+  {
+    "name": "HYDROXYCHLOROQUINE",
+    "dosage": "TABLET 200 MG",
+    "price": "6.47 ₹(1 Tablet)"
+  },
+  {
+    "name": "HYDROXYCHLOROQUINE",
+    "dosage": "TABLET 400 MG",
+    "price": "14.04 ₹(1 Tablet)"
+  },
+  {
+    "name": "HYDROXYPROPYL METHYLCELLULOSE",
+    "dosage": "INJECTION 2%",
+    "price": "41.64 ₹(1 ML)"
+  },
+  {
+    "name": "HYDROXY PROPYL METHYL CELLULOSE (2 % W/ V)",
+    "dosage": "PREFILLED SYRINGE --",
+    "price": "29.72 ₹(1 ML)"
+  },
+  {
+    "name": "HYDROXYUREA",
+    "dosage": "CAPSULE 500 MG",
+    "price": "12.33 ₹(1"
+  },
+  {
+    "name": "HYOSCINE BUTYLBROMIDE",
+    "dosage": "TABLET 10 MG",
+    "price": "3.30 ₹(1 Tablet)"
+  },
+  {
+    "name": "HYOSCINE",
+    "dosage": "INJECTION 20 MG",
+    "price": "11.44 ₹(1 ML)"
+  },
+  {
+    "name": "IBUPROFEN",
+    "dosage": "ORAL LIQUID 100 MG/ 5 ML",
+    "price": "0.22 ₹(1 ML)"
+  },
+  {
+    "name": "IBUPROFEN",
+    "dosage": "CAPSULE 200 MG",
+    "price": "3.39 ₹(1 Capsule)"
+  },
+  {
+    "name": "IBUPROFEN",
+    "dosage": "TABLET 200 MG",
+    "price": "0.72 ₹(1 Tablet)"
+  },
+  {
+    "name": "IBUPROFEN",
+    "dosage": "CAPSULE 400 MG",
+    "price": "1.33 ₹(1 Capsule)"
+  },
+  {
+    "name": "IBUPROFEN",
+    "dosage": "CAPSULE 400 MG",
+    "price": "1.33 ₹(1 Capsule)"
+  },
+  {
+    "name": "IBUPROFEN",
+    "dosage": "TABLET 400 MG",
+    "price": "0.69 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "IBUPROFEN",
+    "dosage": "TABLET 400 MG",
+    "price": "1.22 ₹(1 Tablet)"
+  },
+  {
+    "name": "IFOSFAMIDE",
+    "dosage": "INJECTION 1000 MG",
+    "price": "324.50 ₹(Each Vial)"
+  },
+  {
+    "name": "IFOSFAMIDE",
+    "dosage": "INJECTION 2000 MG",
+    "price": "654.34 ₹(Each Vial)"
+  },
+  {
+    "name": "IMATINIB MESYLATE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "74.76 ₹(1"
+  },
+  {
+    "name": "IMATINIB",
+    "dosage": "TABLET 100 MG",
+    "price": "70.96 ₹(1 Tablet)"
+  },
+  {
+    "name": "IMATINIB",
+    "dosage": "CAPSULE 400 MG",
+    "price": "323.54 ₹(1"
+  },
+  {
+    "name": "IMATINIB",
+    "dosage": "TABLET 400 MG",
+    "price": "203.09 ₹(1 Tablet)"
+  },
+  {
+    "name": "INTERMEDIATE-ACTING INSULIN(SOLUBLE)",
+    "dosage": "INJECTION 40 IU/ ML",
+    "price": "17.29 ₹(1 ML)"
+  },
+  {
+    "name": "IOHEXOL",
+    "dosage": "INJECTION 300 MG",
+    "price": "17.19 ₹(1 ML)"
+  },
+  {
+    "name": "IOHEXOL",
+    "dosage": "INFUSION 350 MG",
+    "price": "14.49 ₹(1 ML)"
+  },
+  {
+    "name": "IPRATROPIUM",
+    "dosage": "INHALATION 20 MCG",
+    "price": "0.77 ₹(1 Dose)"
+  },
+  {
+    "name": "IPRATROPIUM",
+    "dosage": "RESPIRATORY SOLUTION FOR USE IN NEBULIZER 250 MCG",
+    "price": "3.20 ₹(1 ML)"
+  },
+  {
+    "name": "IRINOTECAN",
+    "dosage": "INJECTION 40 MG",
+    "price": "981.68 ₹(1 ML)"
+  },
+  {
+    "name": "IRON SUCROSE",
+    "dosage": "INJECTION 20 MG/ML",
+    "price": "58.41 ₹(1 ML)"
+  },
+  {
+    "name": "ISOFLURANE",
+    "dosage": "LIQUID 100 %",
+    "price": "9.82 ₹(1 ML)"
+  },
+  {
+    "name": "ISOFLURANE",
+    "dosage": "INHALATION 30 ML",
+    "price": "11.61 ₹(1 ML)"
+  },
+  {
+    "name": "ISONIAZID",
+    "dosage": "SYRUP 100 MG",
+    "price": "0.29 ₹(1 ML)"
+  },
+  {
+    "name": "ISONIAZID",
+    "dosage": "TABLET 100 MG",
+    "price": "0.73 ₹(1 Tablet)"
+  },
+  {
+    "name": "ISONIAZID",
+    "dosage": "TABLET 100 MG",
+    "price": "0.74 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "ISONIAZID",
+    "dosage": "TABLET 300 MG",
+    "price": "1.31 ₹(1 Tablet)"
+  },
+  {
+    "name": "ISOSORBIDE-5-MONONITRATE",
+    "dosage": "TABLET 10 MG",
+    "price": "2.18 ₹(1 Tablet)"
+  },
+  {
+    "name": "ISOSORBIDE-5-MONONITRATE",
+    "dosage": "TABLET 20 MG",
+    "price": "3.64 ₹(1 Tablet)"
+  },
+  {
+    "name": "ISOSORBIDE-5-MONONITRATE",
+    "dosage": "SR CAPSULE 30 MG",
+    "price": "3.89 ₹(1 Capsule)"
+  },
+  {
+    "name": "ISOSORBIDE-5-MONONITRATE",
+    "dosage": "SR TABLET 30 MG",
+    "price": "5.44 ₹(1 Tablet)"
+  },
+  {
+    "name": "ISOSORBIDE-5-MONONITRATE",
+    "dosage": "SR CAPSULE 60 MG",
+    "price": "3.87 ₹(1 Capsule)"
+  },
+  {
+    "name": "ISOSORBIDE-5-MONONITRATE",
+    "dosage": "SR TABLET 60 MG",
+    "price": "7.09 ₹(1 Tablet)"
+  },
+  {
+    "name": "ISOSORBIDE DINITRATE",
+    "dosage": "TABLET 10 MG",
+    "price": "0.82 ₹(1 Tablet)"
+  },
+  {
+    "name": "ISOSORBIDE DINITRATE",
+    "dosage": "TABLET 5 MG",
+    "price": "0.83 ₹(1 Tablet)"
+  },
+  {
+    "name": "ISPAGHULA",
+    "dosage": "POWDER --",
+    "price": "0.96 ₹(1 GM)"
+  },
+  {
+    "name": "ITRACONAZOLE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "16.96 ₹(1"
+  },
+  {
+    "name": "ITRACONAZOLE",
+    "dosage": "ORAL SOLUTION 10 MG",
+    "price": "5.03 ₹(1 ML)"
+  },
+  {
+    "name": "ITRACONAZOLE",
+    "dosage": "CAPSULE 200 MG",
+    "price": "22.50 ₹(1"
+  },
+  {
+    "name": "IUDS CONTAINING COPPER",
+    "dosage": "DEVICE --",
+    "price": "285.90 ₹(1 IUD)"
+  },
+  {
+    "name": "HORMONE RELEASING IUD",
+    "dosage": "DEVICE CONTAINS 52 MGOF LEVONORGESTREL",
+    "price": "4174.93 ₹(1 IUD)"
+  },
+  {
+    "name": "IVERMECTIN",
+    "dosage": "TABLET 12 MG",
+    "price": "38.02 ₹(1 Tablet)"
+  },
+  {
+    "name": "IVERMECTIN",
+    "dosage": "TABLET 6 MG",
+    "price": "21.96 ₹(1 Tablet)"
+  },
+  {
+    "name": "JAPANESE ENCEPHALITIS",
+    "dosage": "VACCINE 4 MCG TO 6 MCG",
+    "price": "688.94 ₹(Each Vial)"
+  },
+  {
+    "name": "JAPANESE ENCEPHALITIS",
+    "dosage": "VACCINE UPTO 3 MCG",
+    "price": "527.68 ₹(Each Vial)"
+  },
+  {
+    "name": "KANAMYCIN",
+    "dosage": "POWDER FOR INJECTION 1 GM",
+    "price": "43.42 ₹(Each Pack)"
+  },
+  {
+    "name": "KANAMYCIN",
+    "dosage": "POWDER FOR INJECTION 500 MG",
+    "price": "23.68 ₹(Each Pack)"
+  },
+  {
+    "name": "KANAMYCIN",
+    "dosage": "POWDER FOR INJECTION 750 MG",
+    "price": "40.46 ₹(Each Pack)"
+  },
+  {
+    "name": "KETAMINE",
+    "dosage": "INJECTION 10 MG",
+    "price": "13.42 ₹(1 ML)"
+  },
+  {
+    "name": "KETAMINE",
+    "dosage": "INJECTION 50 MG",
+    "price": "12.33 ₹(1 ML)"
+  },
+  {
+    "name": "LABETALOL",
+    "dosage": "TABLET 100 MG",
+    "price": "15.42 ₹(1 Tablet)"
+  },
+  {
+    "name": "LABETALOL",
+    "dosage": "INJECTION 5 MG",
+    "price": "50.85 ₹(1 ML)"
+  },
+  {
+    "name": "LACTULOSE",
+    "dosage": "ORAL LIQUID 10 GM/ 15 ML",
+    "price": "1.25 ₹(1 ML)"
+  },
+  {
+    "name": "LAMIVUDINE",
+    "dosage": "TABLET 100 MG",
+    "price": "11.07 ₹(1 Tablet)"
+  },
+  {
+    "name": "LAMIVUDINE",
+    "dosage": "TABLET 100 MG",
+    "price": "11.26 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "LAMIVUDINE",
+    "dosage": "TABLET 150 MG",
+    "price": "11.05 ₹(1 Tablet)"
+  },
+  {
+    "name": "STAVUDINE (A) + LAMIVUDINE (B)",
+    "dosage": "TABLET 30 MG(A) +150 MG(B)",
+    "price": "10.60 ₹(1 Tablet)"
+  },
+  {
+    "name": "LAMIVUDINE (A) + NEVIRAPINE (B) + STAVUDINE (C)",
+    "dosage": "TABLET 150 MG(A) + 200 MG(B) + 30 MG (C)",
+    "price": "17.32 ₹(1 Tablet)"
+  },
+  {
+    "name": "LAMIVUDINE (A)+ NEVIRAPINE (B) + STAVUDINE (C)",
+    "dosage": "DT TABLET 30 MG(A) + 50 MG(B) + 6 MG(C)",
+    "price": "5.49 ₹(1 Tablet)"
+  },
+  {
+    "name": "TENOFOVIR (A)+LAMIVUDINE (B)",
+    "dosage": "TABLET 300 MG(A) + 300 MG(B)",
+    "price": "46.37 ₹(1 Tablet)"
+  },
+  {
+    "name": "TENOFOVIR (A)+LAMIVUDINE (B) + EFAVIRENZ (C)",
+    "dosage": "TABLET 300 MG(A) + 300 MG(B) + 600 MG�",
+    "price": "104.63 ₹(1 Tablet)"
+  },
+  {
+    "name": "LAMIVUDINE + ZIDOVUDINE",
+    "dosage": "TABLET 150/300 MG",
+    "price": "21.46 ₹(1 Tablet)"
+  },
+  {
+    "name": "ZIDOVUDINE (A) + LAMIVUDINE (B) + NEVIRAPINE (C)",
+    "dosage": "TABLET 300 MG(A) + 150 MG(B) + 200 MG(C)",
+    "price": "21.50 ₹(1 Tablet)"
+  },
+  {
+    "name": "LATANOPROST",
+    "dosage": "EAR DROPS 0.005 %",
+    "price": "236.63 ₹(1 ML)"
+  },
+  {
+    "name": "LEFLUNOMIDE",
+    "dosage": "TABLET 10 MG",
+    "price": "11.11 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEFLUNOMIDE",
+    "dosage": "TABLET 20 MG",
+    "price": "21.69 ₹(1 Tablet)"
+  },
+  {
+    "name": "LENALIDOMIDE",
+    "dosage": "CAPSULE 25 MG",
+    "price": "297.36 ₹(1"
+  },
+  {
+    "name": "LENALIDOMIDE",
+    "dosage": "CAPSULE 5 MG",
+    "price": "68.42 ₹(1"
+  },
+  {
+    "name": "LETROZOLE",
+    "dosage": "TABLET 2.50 MG",
+    "price": "29.83 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEUPRORELIN",
+    "dosage": "INJECTION 11.25 MG",
+    "price": "9456.23 ₹(Each Vial)"
+  },
+  {
+    "name": "LEUPRORELIN",
+    "dosage": "INJECTION 22.5 MG",
+    "price": "17378.77 ₹(Each"
+  },
+  {
+    "name": "LEUPRORELIN",
+    "dosage": "INJECTION 3.75 MG",
+    "price": "3166.84 ₹(Each Vial)"
+  },
+  {
+    "name": "LEVETIRACETAM",
+    "dosage": "INJECTION 100 MG/ML",
+    "price": "23.42 ₹(1 ML)"
+  },
+  {
+    "name": "LEVETIRACETAM",
+    "dosage": "SYRUP 100 MG",
+    "price": "4.04 ₹(1 ML)"
+  },
+  {
+    "name": "LEVETIRACETAM",
+    "dosage": "TABLET 250 MG",
+    "price": "6.41 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVETIRACETAM",
+    "dosage": "TABLET 500 MG",
+    "price": "13.21 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVETIRACETAM",
+    "dosage": "MODIFIED RELEASE TABLET 750 MG",
+    "price": "18.62 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVETIRACETAM",
+    "dosage": "TABLET 750 MG",
+    "price": "19.68 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVETIRACETAM",
+    "dosage": "ER TABLET 750 MG",
+    "price": "19.31 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVODOPA (A)+CARBIDOPA (B)",
+    "dosage": "TABLET 100 MG(A) + 10 MG(B)",
+    "price": "1.79 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVODOPA + CARBIDOPA",
+    "dosage": "MODIFIED RELEASE TABLET 100/25 MG",
+    "price": "2.84 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVODOPA (A)+CARBIDOPA (B)",
+    "dosage": "TABLET 100 MG(A) + 25 MG(B)",
+    "price": "2.62 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVODOPA (A)+CARBIDOPA (B)",
+    "dosage": "CR TABLET 100 MG(A) + 25 MG(B)",
+    "price": "3.70 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVODOPA + CARBIDOPA",
+    "dosage": "MODIFIED RELEASE TABLET 200/50 MG",
+    "price": "4.81 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVODOPA (A)+CARBIDOPA (B)",
+    "dosage": "CR TABLET 200 MG(A) + 50 MG(B)",
+    "price": "4.56 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVODOPA + CARBIDOPA",
+    "dosage": "TABLET 250/25 MG",
+    "price": "4.50 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOFLOXACIN",
+    "dosage": "TABLET 250 MG",
+    "price": "4.90 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOFLOXACIN",
+    "dosage": "TABLET 500 MG",
+    "price": "9.15 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOFLOXACIN",
+    "dosage": "TABLET 500 MG",
+    "price": "8.04 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "LEVOFLOXACIN",
+    "dosage": "TABLET 750 MG",
+    "price": "12.67 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVONORGESTREL",
+    "dosage": "TABLET 0.75 MG",
+    "price": "29.15 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVONORGESTREL",
+    "dosage": "TABLET 1.5 MG",
+    "price": "76.66 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 100 MCG",
+    "price": "1.34 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 112 MCG",
+    "price": "1.69 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 12.5 MCG",
+    "price": "1.51 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 125 MCG",
+    "price": "1.72 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 150 MCG",
+    "price": "1.73 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 25 MCG",
+    "price": "1.48 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 37.5 MCG",
+    "price": "1.50 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 50 MCG",
+    "price": "1.05 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 62.5 MCG",
+    "price": "1.64 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 75 MCG",
+    "price": "1.47 ₹(1 Tablet)"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dosage": "TABLET 88 MCG",
+    "price": "1.68 ₹(1 Tablet)"
+  },
+  {
+    "name": "LIGNOCAINE",
+    "dosage": "INJECTION 5% WITH",
+    "price": "7.5%"
+  },
+  {
+    "name": "LIDOCAINE",
+    "dosage": "INJECTION 1 %",
+    "price": "9.02 ₹(1 ML)"
+  },
+  {
+    "name": "LIDOCAINE",
+    "dosage": "TOPICAL FORMS 2-5%",
+    "price": "1.10 ₹(1 gm or 1 ml)( Pack)"
+  },
+  {
+    "name": "LIDOCAINE",
+    "dosage": "TOPICAL FORMS 2-5%",
+    "price": "1.08 ₹(1 gm or 1 ml)"
+  },
+  {
+    "name": "LIDOCAINE",
+    "dosage": "INJECTION 2 %",
+    "price": "1.16 ₹(1 ML)("
+  },
+  {
+    "name": "LIDOCAINE",
+    "dosage": "INJECTION 2 %",
+    "price": "1.14 ₹(1 ML)"
+  },
+  {
+    "name": "LIGNOCAINE",
+    "dosage": "(PRESERVATIVE FREE FOR IV USE) 2 %",
+    "price": "1.09 ₹(1 ML)"
+  },
+  {
+    "name": "LIDOCAINE",
+    "dosage": "INJECTION 5 % WITH 7.5",
+    "price": "%"
+  },
+  {
+    "name": "LIGNOCAINE (A)+ADRENALINE (B)",
+    "dosage": "INJECTION 1% (A) + 1:200000 (5 MCG/ML) (B)",
+    "price": "0.57 ₹(1 ML)"
+  },
+  {
+    "name": "LIGNOCAINE (A)+ADRENALINE (B)",
+    "dosage": "INJECTION 2% (A) + 1:200000 (5MCG/ML) (B)",
+    "price": "1.02 ₹(1 ML)"
+  },
+  {
+    "name": "LIDOCAINE + ADRENALINE",
+    "dosage": "INJECTION 2%/0.005MG",
+    "price": "1.07 ₹(1 ML)"
+  },
+  {
+    "name": "LINEZOLID",
+    "dosage": "TABLET 300 MG",
+    "price": "23.04 ₹(1 Tablet)"
+  },
+  {
+    "name": "LINEZOLID",
+    "dosage": "TABLET 600 MG",
+    "price": "36.29 ₹(1 Tablet)"
+  },
+  {
+    "name": "LINEZOLID",
+    "dosage": "TABLET 600 MG",
+    "price": "32.94 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "LITHIUM",
+    "dosage": "TABLET 300 MG",
+    "price": "2.49 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "LITHIUM",
+    "dosage": "TABLET 300 MG",
+    "price": "1.63 ₹(1 Tablet)"
+  },
+  {
+    "name": "LOPERAMIDE",
+    "dosage": "CAPSULE 2 MG",
+    "price": "3.86 ₹(1 Capsule)"
+  },
+  {
+    "name": "LOPERAMIDE",
+    "dosage": "TABLET 2 MG",
+    "price": "2.32 ₹(1 Tablet)"
+  },
+  {
+    "name": "LORAZEPAM",
+    "dosage": "TABLET 1 MG",
+    "price": "2.35 ₹(1 Tablet)"
+  },
+  {
+    "name": "LORAZEPAM",
+    "dosage": "INJECTION 2 MG/ML",
+    "price": "8.24 ₹(1 ML)"
+  },
+  {
+    "name": "LORAZEPAM",
+    "dosage": "TABLET 2 MG",
+    "price": "2.86 ₹(1 Tablet)"
+  },
+  {
+    "name": "DEXTRAN-40",
+    "dosage": "INJECTION 10%",
+    "price": "1.07 ₹(1 ML)"
+  },
+  {
+    "name": "MAGNESIUM SULPHATE",
+    "dosage": "INJECTION 500 MG/ML",
+    "price": "4.95 ₹(1 ML)"
+  },
+  {
+    "name": "MANNITOL",
+    "dosage": "INFUSION 10 %",
+    "price": "0.19 ₹(1 ML)"
+  },
+  {
+    "name": "MANNITOL",
+    "dosage": "100 ML PACK INJECTION",
+    "price": "20%"
+  },
+  {
+    "name": "MANNITOL",
+    "dosage": "INJECTION 20% IN 100 ML PACK",
+    "price": "0.41 ₹(1 ML)("
+  },
+  {
+    "name": "MANNITOL",
+    "dosage": "INJECTION 20 % IN 350ML PACK FOR PACKAGES IN NON- GLASS CONTAINER",
+    "price": "0.41 ₹(1 ML)("
+  },
+  {
+    "name": "MANNITOL",
+    "dosage": "INFUSION 20 %",
+    "price": "0.36 ₹(1 ML)"
+  },
+  {
+    "name": "MEASLES",
+    "dosage": "INJECTION 0.5 ML",
+    "price": "51.07 ₹(Each Vial) ( Pack)"
+  },
+  {
+    "name": "MEASLES VACCINE",
+    "dosage": "VACCINE 0.5 ML",
+    "price": "63.47 ₹(Each Pack (0.5ml))"
+  },
+  {
+    "name": "MEBENDAZOLE",
+    "dosage": "ORAL LIQUID 100 MG/ 5 ML",
+    "price": "0.85 ₹(1 ML)"
+  },
+  {
+    "name": "MEBENDAZOLE",
+    "dosage": "TABLET 100 MG",
+    "price": "2.95 ₹(1 Tablet)"
+  },
+  {
+    "name": "MEDROXYPROGESTERONEACETATE",
+    "dosage": "TABLET 5 MG",
+    "price": "2.78 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "MEDROXYPROGESTERONEACETATE",
+    "dosage": "TABLET 5 MG",
+    "price": "3.78 ₹(1 Tablet)"
+  },
+  {
+    "name": "MEDROXYPROGESTERONE INJECTABLE",
+    "dosage": "INJECTION 150 MG",
+    "price": "294.80 ₹(1 ML)"
+  },
+  {
+    "name": "MEDROXYPROGESTERONEACETATE",
+    "dosage": "TABLET 10 MG",
+    "price": "6.36 ₹(1 Tablet)"
+  },
+  {
+    "name": "MEFENAMIC ACID",
+    "dosage": "ORAL LIQUID 100 MG/ 5 ML",
+    "price": "0.57 ₹(1 ML)"
+  },
+  {
+    "name": "MEFENAMIC ACID",
+    "dosage": "TABLET 250 MG",
+    "price": "2.15 ₹(1 Tablet)"
+  },
+  {
+    "name": "MEFENAMIC ACID",
+    "dosage": "TABLET 500 MG",
+    "price": "2.72 ₹(1 Tablet)"
+  },
+  {
+    "name": "MEFLOQUINE",
+    "dosage": "TABLET 250 MG",
+    "price": "53.07 ₹(1 Tablet)"
+  },
+  {
+    "name": "MEGLUMINE DIATRIZOATE",
+    "dosage": "INJECTION 60 %",
+    "price": "9.63 ₹(1 ML)"
+  },
+  {
+    "name": "MEGLUMINE DIATRIZOATE",
+    "dosage": "INJECTION 76 %",
+    "price": "10.38 ₹(1 ML)"
+  },
+  {
+    "name": "MELPHALAN",
+    "dosage": "TABLET 2 MG",
+    "price": "92.93 ₹(1 Tablet)"
+  },
+  {
+    "name": "MELPHALAN",
+    "dosage": "TABLET 5 MG",
+    "price": "87.54 ₹(1 Tablet)"
+  },
+  {
+    "name": "6-MERCAPTOPURINE",
+    "dosage": "TABLET 50 MG",
+    "price": "5.35 ₹(1 Tablet)"
+  },
+  {
+    "name": "MEROPENEM",
+    "dosage": "INJECTION 1000 MG",
+    "price": "969.32 ₹(Each Vial)"
+  },
+  {
+    "name": "MEROPENEM",
+    "dosage": "INJECTION 500 MG",
+    "price": "735.59 ₹(Each Vial)"
+  },
+  {
+    "name": "MESALAZINE",
+    "dosage": "FOAM 1000 MG",
+    "price": "17.00 ₹(1 GM)"
+  },
+  {
+    "name": "MESALAZINE",
+    "dosage": "LIQUID 4000 MG",
+    "price": "2.16 ₹(1 ML)"
+  },
+  {
+    "name": "5-AMINOSALICYLIC ACID",
+    "dosage": "TABLET 400 MG",
+    "price": "8.06 ₹(1 Tablet)"
+  },
+  {
+    "name": "5-AMINOSALICYLIC ACID",
+    "dosage": "SUPPOSITORY 500 MG",
+    "price": "17.74 ₹(1"
+  },
+  {
+    "name": "MESNA",
+    "dosage": "INJECTION 100 MG",
+    "price": "15.78 ₹(1 ML)"
+  },
+  {
+    "name": "METFORMIN",
+    "dosage": "MODIFIED RELEASE TABLET 1000 MG",
+    "price": "4.12 ₹(1 Tablet)"
+  },
+  {
+    "name": "METFORMIN",
+    "dosage": "IMMEDIATE RELEASE TABLET 1000 MG",
+    "price": "3.64 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "METFORMIN",
+    "dosage": "TABLET 1000 MG",
+    "price": "3.55 ₹(1 Tablet)"
+  },
+  {
+    "name": "METFORMIN",
+    "dosage": "CONTROLLED RELEASE TABLET 1000 MG",
+    "price": "4.00 ₹(1 Tablet)"
+  },
+  {
+    "name": "METFORMIN",
+    "dosage": "TABLET SR 1000 MG",
+    "price": "4.12 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "METFORMIN",
+    "dosage": "IMMEDIATE RELEASE TABLET 500 MG",
+    "price": "1.91 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "METFORMIN",
+    "dosage": "TABLET 500 MG",
+    "price": "2.06 ₹(1 Tablet)"
+  },
+  {
+    "name": "METFORMIN",
+    "dosage": "CONTROLLED RELEASE TABLET 500 MG",
+    "price": "1.67 ₹(1 Tablet)"
+  },
+  {
+    "name": "METFORMIN",
+    "dosage": "IMMEDIATE RELEASE TABLET 750 MG",
+    "price": "2.66 ₹(1 Tablet)"
+  },
+  {
+    "name": "METFORMIN",
+    "dosage": "CONTROLLED RELEASE TABLET 750 MG",
+    "price": "3.38 ₹(1 Tablet)"
+  },
+  {
+    "name": "METHOTREXATE",
+    "dosage": "TABLET 10 MG",
+    "price": "13.52 ₹(1 Tablet)"
+  },
+  {
+    "name": "METHOTREXATE",
+    "dosage": "INJECTION 25 MG/ML",
+    "price": "53.41 ₹(1 ML)"
+  },
+  {
+    "name": "METHOTREXATE",
+    "dosage": "TABLET 2.5 MG",
+    "price": "5.40 ₹(1 Tablet)"
+  },
+  {
+    "name": "METHOTREXATE",
+    "dosage": "INJECTION 50 MG/ML",
+    "price": "50.73 ₹(1 ML)"
+  },
+  {
+    "name": "METHOTREXATE",
+    "dosage": "TABLET 5 MG",
+    "price": "9.59 ₹(1 Tablet)"
+  },
+  {
+    "name": "METHOTREXATE",
+    "dosage": "TABLET 7.5 MG",
+    "price": "12.86 ₹(1 Tablet)"
+  },
+  {
+    "name": "METHYLDOPA",
+    "dosage": "TABLET 250 MG",
+    "price": "2.71 ₹(1 Tablet)"
+  },
+  {
+    "name": "METHYLDOPA",
+    "dosage": "TABLET 500 MG",
+    "price": "5.21 ₹(1 Tablet)"
+  },
+  {
+    "name": "METHYLTHIONINIUM CHLORIDE (METHYLENE BLUE)",
+    "dosage": "INJECTION 10 MG/ML",
+    "price": "27.60 ₹(1 ML)"
+  },
+  {
+    "name": "METHYLERGOMETRINE",
+    "dosage": "TABLET 0.125 MG",
+    "price": "9.10 ₹(1 Tablet)"
+  },
+  {
+    "name": "METHYLERGOMETRINE",
+    "dosage": "INJECTION 0.2 MG/ML",
+    "price": "15.21 ₹(1 ML)"
+  },
+  {
+    "name": "METHYLPREDNISOLONE",
+    "dosage": "TABLET 16 MG",
+    "price": "9.90 ₹(1 Tablet)"
+  },
+  {
+    "name": "METHYLPREDNISOLONE",
+    "dosage": "INJECTION 40 MG/ML",
+    "price": "46.46 ₹(1 ML)"
+  },
+  {
+    "name": "METHYLPREDNISOLONE",
+    "dosage": "TABLET 8 MG",
+    "price": "5.66 ₹(1 Tablet)"
+  },
+  {
+    "name": "METHYLPREDNISOLONE",
+    "dosage": "TABLET 8 MG",
+    "price": "5.08 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "METOCLOPRAMIDE",
+    "dosage": "TABLET 10 MG",
+    "price": "1.37 ₹(1 Tablet)"
+  },
+  {
+    "name": "METOCLOPRAMIDE",
+    "dosage": "INJECTION 5 MG/ML",
+    "price": "2.72 ₹(1 ML)"
+  },
+  {
+    "name": "METOCLOPRAMIDE",
+    "dosage": "ORAL LIQUID 5 MG/ 5 ML",
+    "price": "0.49 ₹(1 ML)"
+  },
+  {
+    "name": "METOCLOPRAMIDE",
+    "dosage": "SYRUP 5 MG",
+    "price": "0.51 ₹(1 ML)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "TABLET 100 MG",
+    "price": "11.32 ₹(1 Tablet)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "TABLET ER 100 MG",
+    "price": "15.25 ₹(1 Tablet)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "TABLET XR 100 MG",
+    "price": "15.25 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "INJECTION 1 MG",
+    "price": "3.46 ₹(1 ML)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "CAPSULE 25 MG",
+    "price": "4.21 ₹(1 Capsule)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "TABLET 25 MG",
+    "price": "4.32 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "TABLET 25 MG",
+    "price": "4.25 ₹(1 Tablet)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "SR TABLET 25 MG",
+    "price": "4.47 ₹(1 Tablet)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "CAPSULE 50 MG",
+    "price": "5.92 ₹(1 Capsule)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "TABLET 50 MG",
+    "price": "5.94 ₹(1 Tablet)"
+  },
+  {
+    "name": "METOPROLOL",
+    "dosage": "SR TABLET 50 MG",
+    "price": "6.41 ₹(1 Tablet)"
+  },
+  {
+    "name": "METRONIDAZOLE",
+    "dosage": "ORAL LIQUID 200 MG/ 5 ML",
+    "price": "0.53 ₹(1 ML)"
+  },
+  {
+    "name": "METRONIDAZOLE",
+    "dosage": "TABLET 200 MG",
+    "price": "0.83 ₹(1 Tablet)"
+  },
+  {
+    "name": "METRONIDAZOLE",
+    "dosage": "TABLET 400 MG",
+    "price": "1.27 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "METRONIDAZOLE",
+    "dosage": "TABLET 400 MG",
+    "price": "1.55 ₹(1 Tablet)"
+  },
+  {
+    "name": "METRONIDAZOLE",
+    "dosage": "INJECTION 500 MG/ 100 ML",
+    "price": "0.25 ₹(1 ML)"
+  },
+  {
+    "name": "METRONIDAZOLE",
+    "dosage": "INJECTION 500MG/100ML IN 100ML PACK FOR PACKAGES IN NON-GLASS CONTAINER",
+    "price": "0.25 ₹(1 ML)("
+  },
+  {
+    "name": "METRONIDAZOLE",
+    "dosage": "INJECTION 500 MG",
+    "price": "0.21 ₹(1 ML)"
+  },
+  {
+    "name": "MIDAZOLAM",
+    "dosage": "NASAL SPRAY 0.5 MG",
+    "price": "81.32 ₹(1 ML)"
+  },
+  {
+    "name": "MIDAZOLAM",
+    "dosage": "NASAL SPRAY 1.25 MG",
+    "price": "220.59 ₹(1 ML)"
+  },
+  {
+    "name": "MIDAZOLAM",
+    "dosage": "INJECTION 1 MG",
+    "price": "6.02 ₹(1 ML)"
+  },
+  {
+    "name": "MIDAZOLAM",
+    "dosage": "INJECTION 5 MG",
+    "price": "11.07 ₹(1 ML)"
+  },
+  {
+    "name": "MIDAZOLAM",
+    "dosage": "TABLET 7.5 MG",
+    "price": "28.43 ₹(1 Tablet)"
+  },
+  {
+    "name": "MIFEPRISTONE",
+    "dosage": "TABLET 200 MG",
+    "price": "357.02 ₹(1 Tablet)"
+  },
+  {
+    "name": "MISOPROSTOL",
+    "dosage": "TABLET 100 MCG",
+    "price": "10.09 ₹(1 Tablet)"
+  },
+  {
+    "name": "MISOPROSTOL",
+    "dosage": "TABLET 200 MCG",
+    "price": "19.30 ₹(1 Tablet)"
+  },
+  {
+    "name": "MONTELUKAST",
+    "dosage": "TABLET 10 MG",
+    "price": "16.73 ₹(1 Tablet)"
+  },
+  {
+    "name": "MONTELUKAST",
+    "dosage": "TABLET 4 MG",
+    "price": "10.23 ₹(1 Tablet)"
+  },
+  {
+    "name": "MONTELUKAST",
+    "dosage": "TABLET 4 MG",
+    "price": "10.41 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "MONTELUKAST",
+    "dosage": "TABLET 5 MG",
+    "price": "11.72 ₹(1 Tablet)"
+  },
+  {
+    "name": "MONTELUKAST",
+    "dosage": "TABLET 5 MG",
+    "price": "12.22 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "MORPHINE",
+    "dosage": "INJECTION 10 MG",
+    "price": "19.94 ₹(1 ML)"
+  },
+  {
+    "name": "MORPHINE",
+    "dosage": "TABLET 10 MG",
+    "price": "6.75 ₹(1 Tablet)"
+  },
+  {
+    "name": "MORPHINE",
+    "dosage": "INJECTION 15 MG",
+    "price": "15.19 ₹(1 ML)"
+  },
+  {
+    "name": "MORPHINE",
+    "dosage": "SR TABLET 30 MG",
+    "price": "6.90 ₹(1 Tablet)"
+  },
+  {
+    "name": "MOXIFLOXACIN",
+    "dosage": "TABLET 400 MG",
+    "price": "26.27 ₹(1 Tablet)"
+  },
+  {
+    "name": "MUPIROCIN",
+    "dosage": "OINTMENT 2 %",
+    "price": "20.64 ₹(1 GM)"
+  },
+  {
+    "name": "MYCOPHENOLATE MOFETIL",
+    "dosage": "TABLET 250 MG",
+    "price": "50.46 ₹(1 Tablet)"
+  },
+  {
+    "name": "MYCOPHENOLATE MOFETIL",
+    "dosage": "TABLET 500 MG",
+    "price": "75.89 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "MYCOPHENOLATE MOFETIL",
+    "dosage": "TABLET 500 MG",
+    "price": "73.88 ₹(1 Tablet)"
+  },
+  {
+    "name": "N-ACETYLCYSTEINE",
+    "dosage": "SACHET 200 MG",
+    "price": "11.39 ₹(1 GM)"
+  },
+  {
+    "name": "NALOXONE",
+    "dosage": "INJECTION 400 MCG",
+    "price": "94.33 ₹(1 ML)"
+  },
+  {
+    "name": "NATAMYCIN",
+    "dosage": "EYE DROPS 5 %",
+    "price": "23.79 ₹(1 ML)"
+  },
+  {
+    "name": "NEOSTIGMINE",
+    "dosage": "INJECTION 0.5 MG",
+    "price": "5.10 ₹(1 ML)"
+  },
+  {
+    "name": "NEOSTIGMINE",
+    "dosage": "TABLET 15 MG",
+    "price": "4.67 ₹(1 Tablet)"
+  },
+  {
+    "name": "NEVIRAPINE",
+    "dosage": "TABLET 200 MG",
+    "price": "16.07 ₹(1 Tablet)"
+  },
+  {
+    "name": "NEVIRAPINE",
+    "dosage": "ORAL LIQUID 50 MG/5 ML",
+    "price": "1.06 ₹(1 ML)"
+  },
+  {
+    "name": "NICOTINE",
+    "dosage": "GUM 2 MG",
+    "price": "8.74 ₹(1 Gum)"
+  },
+  {
+    "name": "NICOTINE",
+    "dosage": "LOZENGES 2 MG",
+    "price": "8.06 ₹(1"
+  },
+  {
+    "name": "NICOTINE",
+    "dosage": "PASTILLES 2 MG",
+    "price": "7.24 ₹(1 Pastille)"
+  },
+  {
+    "name": "NICOTINE",
+    "dosage": "GUM 4 MG",
+    "price": "10.83 ₹(1 Gum)"
+  },
+  {
+    "name": "NICOTINE",
+    "dosage": "LOZENGES 4 MG",
+    "price": "9.92 ₹(1"
+  },
+  {
+    "name": "NICOTINE",
+    "dosage": "PASTILLES 4 MG",
+    "price": "7.97 ₹(1 Pastille)"
+  },
+  {
+    "name": "NIFEDIPINE",
+    "dosage": "CAPSULE 10 MG",
+    "price": "0.97 ₹(1 Capsule)"
+  },
+  {
+    "name": "NIFEDIPINE",
+    "dosage": "TABLET 10 MG",
+    "price": "1.57 ₹(1 Tablet)"
+  },
+  {
+    "name": "NITROFURANTOIN",
+    "dosage": "CAPSULE 100 MG",
+    "price": "8.79 ₹(1 Capsule)"
+  },
+  {
+    "name": "NITROFURANTOIN",
+    "dosage": "TABLET 100 MG",
+    "price": "7.21 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "NITROFURANTOIN",
+    "dosage": "TABLET 100 MG",
+    "price": "8.25 ₹(1 Tablet)"
+  },
+  {
+    "name": "NITROFURANTOIN",
+    "dosage": "ORAL LIQUID 25 MG/5 ML",
+    "price": "0.91 ₹(1 ML)"
+  },
+  {
+    "name": "NITROUS OXIDE",
+    "dosage": "INHALER --",
+    "price": "290.95 ₹(Cubic Meter)"
+  },
+  {
+    "name": "NOREPINEPHRINE",
+    "dosage": "INJECTION 2 MG",
+    "price": "20.52 ₹(1 ML)"
+  },
+  {
+    "name": "NORETHISTERONE",
+    "dosage": "TABLET 5 MG",
+    "price": "5.48 ₹(1 Tablet)"
+  },
+  {
+    "name": "OMEPRAZOLE",
+    "dosage": "CAPSULE 10 MG",
+    "price": "2.45 ₹(1 Capsule)"
+  },
+  {
+    "name": "OMEPRAZOLE",
+    "dosage": "TABLET 10 MG",
+    "price": "5.62 ₹(1 Tablet)"
+  },
+  {
+    "name": "OMEPRAZOLE",
+    "dosage": "CAPSULE 20 MG",
+    "price": "2.92 ₹(1 Capsule)"
+  },
+  {
+    "name": "OMEPRAZOLE",
+    "dosage": "POWDER FOR ORAL LIQUID 20 MG",
+    "price": "1.54 ₹(1 GM)"
+  },
+  {
+    "name": "OMEPRAZOLE",
+    "dosage": "TABLET 20 MG",
+    "price": "4.42 ₹(1 Tablet)"
+  },
+  {
+    "name": "OMEPRAZOLE",
+    "dosage": "CAPSULE 40 MG",
+    "price": "5.77 ₹(1 Capsule)"
+  },
+  {
+    "name": "OMEPRAZOLE",
+    "dosage": "TABLET 40 MG",
+    "price": "8.60 ₹(1 Tablet)"
+  },
+  {
+    "name": "ONDANSETRON",
+    "dosage": "INJECTION 2 MG",
+    "price": "6.06 ₹(1 ML)"
+  },
+  {
+    "name": "ONDANSETRON",
+    "dosage": "ORAL SOLUTION 2 MG",
+    "price": "1.28 ₹(1 ML)"
+  },
+  {
+    "name": "ONDANSETRON",
+    "dosage": "TABLET 4 MG",
+    "price": "5.23 ₹(1 Tablet)"
+  },
+  {
+    "name": "ONDANSETRON",
+    "dosage": "TABLET 8 MG",
+    "price": "9.22 ₹(1 Tablet)"
+  },
+  {
+    "name": "ORMELOXIFENE",
+    "dosage": "TABLET 30 MG",
+    "price": "8.59 ₹(1 Tablet)"
+  },
+  {
+    "name": "OTHER HEPARINS",
+    "dosage": "SOLUTION 1000 IU",
+    "price": "21.58 ₹(1 ML)"
+  },
+  {
+    "name": "OXALIPLATIN",
+    "dosage": "INJECTION 100 MG",
+    "price": "5066.34 ₹(Each Vial)"
+  },
+  {
+    "name": "OXALIPLATIN",
+    "dosage": "INJECTION 50 MG",
+    "price": "2272.83 ₹(Each Vial)"
+  },
+  {
+    "name": "OXYGEN",
+    "dosage": "IN CYLINDER --",
+    "price": "29.33 ₹(Cubic Meter)"
+  },
+  {
+    "name": "OXYGEN",
+    "dosage": "LIQUID MEDICAL OXYGEN --",
+    "price": "17.32 ₹(Cubic Meter)"
+  },
+  {
+    "name": "OXYTOCIN",
+    "dosage": "INJECTION 10 IU",
+    "price": "40.56 ₹(1 ML)"
+  },
+  {
+    "name": "OXYTOCIN",
+    "dosage": "INJECTION 5 IU",
+    "price": "18.15 ₹(1 ML)"
+  },
+  {
+    "name": "PACLITAXEL",
+    "dosage": "INJECTION 100 MG/16.7 ML",
+    "price": "219.19 ₹(1 ML)"
+  },
+  {
+    "name": "PACLITAXEL",
+    "dosage": "INJECTION 30 MG/ 5 ML",
+    "price": "219.19 ₹(1 ML)"
+  },
+  {
+    "name": "PANTOPRAZOLE",
+    "dosage": "INJECTION 40 MG",
+    "price": "51.33 ₹(Each Vial)"
+  },
+  {
+    "name": "PARA-AMINOSALICYLIC ACID",
+    "dosage": "GRANULES --",
+    "price": "3.60 ₹(1 GM)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "ORAL LIQUID 100 MG/ 5 ML",
+    "price": "0.56 ₹(1 ML)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "ORAL LIQUID 100 MG/ 5 ML",
+    "price": "1.79 ₹(1 ML)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "SUSPENSION 120 MG",
+    "price": "0.62 ₹(1 ML)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "ORAL LIQUID 125 MG/ 5 ML",
+    "price": "0.38 ₹(1 ML)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "INJECTION 150 MG",
+    "price": "5.31 ₹(Each Pack"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "ORAL LIQUID 150 MG/ 5 ML",
+    "price": "0.64 ₹(1 ML)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "SUPPOSITORY 170 MG",
+    "price": "8.09 ₹(1"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "ORAL LIQUID 250 MG/ 5 ML",
+    "price": "0.68 ₹(1 ML)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "ORAL LIQUID 500 MG/ 5 ML",
+    "price": "0.71 ₹(1 ML)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "TABLET 500 MG",
+    "price": "0.92 ₹(1 Tablet)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "TABLET 500 MG",
+    "price": "0.91 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "ORAL LIQUID 650 MG/ 5 ML",
+    "price": "0.58 ₹(1 ML)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "TABLET 650 MG",
+    "price": "2.04 ₹(1 Tablet)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "TABLET 650 MG",
+    "price": "1.83 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "PARACETAMOL",
+    "dosage": "SUPPOSITORY 80 MG",
+    "price": "6.78 ₹(1"
+  },
+  {
+    "name": "PEGYLATED INTERFERON ALFA 2A",
+    "dosage": "INJECTION 180 MCG",
+    "price": "8786.05 ₹(Each Pack)"
+  },
+  {
+    "name": "PEGYLATED INTERFERON ALFA 2B",
+    "dosage": "INJECTION 100 MCG",
+    "price": "17371.08 ₹(Each"
+  },
+  {
+    "name": "PEGYLATED INTERFERON ALFA 2B",
+    "dosage": "INJECTION 120 MCG",
+    "price": "16177.38 ₹(Each"
+  },
+  {
+    "name": "PEGYLATED INTERFERON ALFA 2B",
+    "dosage": "INJECTION 80 MCG",
+    "price": "13887.68 ₹(Each"
+  },
+  {
+    "name": "PENICILLAMINE",
+    "dosage": "CAPSULE 250 MG",
+    "price": "15.92 ₹(1"
+  },
+  {
+    "name": "PENICILLAMINE",
+    "dosage": "CAPSULE 250 MG",
+    "price": "18.82 ₹(1"
+  },
+  {
+    "name": "BENZYL PENICILLIN",
+    "dosage": "POWDER FOR INJECTION 1000000",
+    "price": "14.82 ₹(Each Pack)( Pack)"
+  },
+  {
+    "name": "BENZYL PENICILLIN",
+    "dosage": "POWDER FOR INJECTION 1000000",
+    "price": "9.71 ₹(Each Pack)"
+  },
+  {
+    "name": "PERMETHRIN",
+    "dosage": "CREAM 1 %",
+    "price": "1.53 ₹(1 GM)"
+  },
+  {
+    "name": "PERMETHRIN",
+    "dosage": "LOTION 1 %",
+    "price": "1.02 ₹(1 ML)"
+  },
+  {
+    "name": "PERMETHRIN",
+    "dosage": "CREAM 5 %",
+    "price": "1.88 ₹(1 GM)"
+  },
+  {
+    "name": "PERMETHRIN",
+    "dosage": "GEL 5 %",
+    "price": "1.33 ₹(1 GM)"
+  },
+  {
+    "name": "PERMETHRIN",
+    "dosage": "LOTION 5 %",
+    "price": "1.02 ₹(1 gm or 1 ml)"
+  },
+  {
+    "name": "PHENIRAMINE",
+    "dosage": "INJECTION 22.75 MG",
+    "price": "2.81 ₹(2 ML Pack)"
+  },
+  {
+    "name": "PHENIRAMINE",
+    "dosage": "INJECTION 22.75 MG (2 ML)",
+    "price": "2.54 ₹(1 ML)(2"
+  },
+  {
+    "name": "PHENIRAMINE",
+    "dosage": "INJECTION 22.75 MG (2 ML)",
+    "price": "1.89 ₹(1 ML)(10"
+  },
+  {
+    "name": "PHENOBARBITONE",
+    "dosage": "INJECTION 200 MG",
+    "price": "22.53 ₹(1 ML)"
+  },
+  {
+    "name": "PHENOBARBITONE",
+    "dosage": "ORAL LIQUID 20 MG/ 5 ML",
+    "price": "0.50 ₹(1 ML)"
+  },
+  {
+    "name": "PHENOBARBITONE",
+    "dosage": "TABLET 30 MG",
+    "price": "1.33 ₹(1 Tablet)"
+  },
+  {
+    "name": "PHENOBARBITONE",
+    "dosage": "TABLET 60 MG",
+    "price": "1.92 ₹(1 Tablet)"
+  },
+  {
+    "name": "PHENYLEPHRINE",
+    "dosage": "DROPS 10 %",
+    "price": "10.24 ₹(1 ML)"
+  },
+  {
+    "name": "PHENYLEPHRINE",
+    "dosage": "DROPS 5 %",
+    "price": "4.72 ₹(1 ML)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "CAPSULE 100 MG",
+    "price": "1.86 ₹(1 Capsule)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "TABLET 100 MG",
+    "price": "1.79 ₹(1 Tablet)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "ORAL SUSPENSION 125 MG",
+    "price": "1.12 ₹(1 ML)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "INJECTION 25 MG",
+    "price": "3.18 ₹(1 ML)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "CAPSULE 300 MG",
+    "price": "4.73 ₹(1 Capsule)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "ER CAPSULE 300 MG",
+    "price": "4.82 ₹(1 Capsule)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "TABLET 300 MG",
+    "price": "5.58 ₹(1 Tablet)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "TABLET ER 300 MG",
+    "price": "6.68 ₹(1 Tablet)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "ORAL LIQUID 30 MG/ 5 ML",
+    "price": "0.36 ₹(1 ML)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "INJECTION 50 MG",
+    "price": "6.05 ₹(1 ML)"
+  },
+  {
+    "name": "PHENYTOIN",
+    "dosage": "TABLET 50 MG",
+    "price": "0.85 ₹(1 Tablet)"
+  },
+  {
+    "name": "PHYTOMENADIONE",
+    "dosage": "INJECTION 10 MG",
+    "price": "54.01 ₹(1 ML)"
+  },
+  {
+    "name": "PHYTOMENADIONE (VITAMINK1)10 MG",
+    "dosage": "TABLET 10 MG",
+    "price": "14.79 ₹(1 Tablet)"
+  },
+  {
+    "name": "PILOCARPINE",
+    "dosage": "EYE DROPS 2 %",
+    "price": "16.53 ₹(1 ML)("
+  },
+  {
+    "name": "PILOCARPINE",
+    "dosage": "EYE DROPS 2 %",
+    "price": "10.83 ₹(1 ML)"
+  },
+  {
+    "name": "PILOCARPINE",
+    "dosage": "DROPS 4%",
+    "price": "14.79 ₹(1 ML)"
+  },
+  {
+    "name": "PIPERACILLIN + TAZOBACTAM",
+    "dosage": "INJECTION 1000/125 MG",
+    "price": "101.39 ₹(Each Vial)"
+  },
+  {
+    "name": "PIPERACILLIN (A)+TAZOBACTAM (B)",
+    "dosage": "POWDER FOR INJECTION 2000/125 MG",
+    "price": "232.20 ₹(Each Pack)"
+  },
+  {
+    "name": "PIPERACILLIN + TAZOBACTAM",
+    "dosage": "INJECTION 2000/250 MG",
+    "price": "224.10 ₹(Per Dual chamber bag with special feature)( Pack)"
+  },
+  {
+    "name": "PIPERACILLIN + TAZOBACTAM",
+    "dosage": "INJECTION 2000/250 MG",
+    "price": "194.88 ₹(Each Vial)"
+  },
+  {
+    "name": "PIPERACILLIN + TAZOBACTAM",
+    "dosage": "INJECTION 4000/500 MG",
+    "price": "467.30 ₹(Per Dual chamber bag with special feature)( Pack)"
+  },
+  {
+    "name": "PIPERACILLIN + TAZOBACTAM",
+    "dosage": "INJECTION 4000/500 MG",
+    "price": "406.36 ₹(Each Vial)"
+  },
+  {
+    "name": "ASCORBIC ACID (VITAMIN C)",
+    "dosage": "TABLET 100 MG",
+    "price": "0.24 ₹(1 Tablet)"
+  },
+  {
+    "name": "ASCORBIC ACID (VITAMIN C)",
+    "dosage": "TABLET 500 MG",
+    "price": "1.54 ₹(1 Tablet)"
+  },
+  {
+    "name": "ASCORBIC ACID (VITAMIN C)",
+    "dosage": "TABLET 500 MG",
+    "price": "1.57 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "ORAL POLIOMYELITIS",
+    "dosage": "VACCINE --",
+    "price": "129.89 ₹(1 ML)"
+  },
+  {
+    "name": "POTASSIUM CHLORIDE",
+    "dosage": "INJECTION 150 MG",
+    "price": "2.44 ₹(1 ML)"
+  },
+  {
+    "name": "POTASSIUM CHLORIDE",
+    "dosage": "ORAL LIQUID 500 MG/ 5 ML",
+    "price": "0.31 ₹(1 ML)"
+  },
+  {
+    "name": "POTASSIUM PERMANGANATE",
+    "dosage": "CRYSTAL FOR TOPICAL SOLUTION --",
+    "price": "0.56 ₹(1 GM)"
+  },
+  {
+    "name": "POTASSIUM PERMANGANATE",
+    "dosage": "CRYSTAL FOR TOPICAL SOLUTION --",
+    "price": "0.44 ₹(1 GM)("
+  },
+  {
+    "name": "POVIDONE IODINE",
+    "dosage": "OINTMENT 1%",
+    "price": "6.59 ₹(1 GM)"
+  },
+  {
+    "name": "POVIDONE IODINE",
+    "dosage": "SOLUTION 10 %",
+    "price": "0.98 ₹(1 ML)"
+  },
+  {
+    "name": "POVIDONE IODINE",
+    "dosage": "SOLUTION 4 %",
+    "price": "1.77 ₹(1 ML)"
+  },
+  {
+    "name": "POVIDONE IODINE",
+    "dosage": "LIQUID 5 %",
+    "price": "0.45 ₹(1 ML)"
+  },
+  {
+    "name": "POVIDONE IODINE",
+    "dosage": "SOLUTION 5%",
+    "price": "0.43 ₹(1 ML)"
+  },
+  {
+    "name": "POVIDONE IODINE",
+    "dosage": "SCRUB 7.50%",
+    "price": "2.03 ₹(1 ML)"
+  },
+  {
+    "name": "POVIDONE IODINE",
+    "dosage": "SOLUTION 7.5 %",
+    "price": "0.83 ₹(1 ML)"
+  },
+  {
+    "name": "PRALIDOXIME",
+    "dosage": "INJECTION 25 MG",
+    "price": "4.64 ₹(1 ML)"
+  },
+  {
+    "name": "PRAZIQUANTEL",
+    "dosage": "TABLET 600 MG",
+    "price": "44.00 ₹(1 Tablet)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "TABLET 10 MG",
+    "price": "0.97 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "TABLET 10 MG",
+    "price": "1.22 ₹(1 Tablet)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "TABLET DT 10 MG",
+    "price": "0.97 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "ORAL LIQUID 15 MG/ 5 ML",
+    "price": "0.87 ₹(1 ML)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "DROPS 1 %",
+    "price": "5.86 ₹(1 ML)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "INJECTION 20 MG/ 2 ML",
+    "price": "4.54 ₹(1 ML)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "TABLET 20 MG",
+    "price": "1.85 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "TABLET 20 MG",
+    "price": "2.44 ₹(1 Tablet)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "TABLET DT 20 MG",
+    "price": "1.95 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "TABLET 40 MG",
+    "price": "3.47 ₹(1 Tablet)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "SUSPENSION 5 MG",
+    "price": "0.50 ₹(1 ML)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "ORAL LIQUID 5 MG/ 5 ML",
+    "price": "0.48 ₹(1 ML)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "TABLET 5 MG",
+    "price": "0.56 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "TABLET 5 MG",
+    "price": "0.69 ₹(1 Tablet)"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "dosage": "TABLET DT 5 MG",
+    "price": "0.68 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "PRILOCAINE (A) + LIGNOCAINE (B)",
+    "dosage": "CREAM 2.5/2.5 %",
+    "price": "22.71 ₹(1 GM)"
+  },
+  {
+    "name": "PRIMAQUINE",
+    "dosage": "TABLET 15 MG",
+    "price": "5.23 ₹(1 Tablet)"
+  },
+  {
+    "name": "PRIMAQUINE",
+    "dosage": "TABLET 2.5 MG",
+    "price": "1.78 ₹(1 Tablet)"
+  },
+  {
+    "name": "PRIMAQUINE",
+    "dosage": "TABLET 7.5 MG",
+    "price": "2.42 ₹(1 Tablet)"
+  },
+  {
+    "name": "PROCARBAZINE",
+    "dosage": "CAPSULE 50 MG",
+    "price": "38.38 ₹(1"
+  },
+  {
+    "name": "PROCARBAZINE",
+    "dosage": "TABLET 50 MG",
+    "price": "52.30 ₹(1 Tablet)"
+  },
+  {
+    "name": "PROPARACAINE",
+    "dosage": "EYE DROPS 0.5 %",
+    "price": "10.43 ₹(1 ML)"
+  },
+  {
+    "name": "PROPOFOL",
+    "dosage": "INJECTION 10 MG",
+    "price": "6.61 ₹(1 ML)"
+  },
+  {
+    "name": "PROPRANOLOL",
+    "dosage": "CAPSULE 10 MG",
+    "price": "2.03 ₹(1 Capsule)"
+  },
+  {
+    "name": "PROPRANOLOL",
+    "dosage": "TABLET 10 MG",
+    "price": "1.33 ₹(1 Tablet)"
+  },
+  {
+    "name": "PROPRANOLOL",
+    "dosage": "CAPSULE 20 MG",
+    "price": "2.39 ₹(1 Capsule)"
+  },
+  {
+    "name": "PROPRANOLOL",
+    "dosage": "TABLET 20 MG",
+    "price": "3.26 ₹(1 Tablet)"
+  },
+  {
+    "name": "PROPRANOLOL",
+    "dosage": "CAPSULE 40 MG",
+    "price": "4.32 ₹(1 Capsule)"
+  },
+  {
+    "name": "PROPRANOLOL",
+    "dosage": "TABLET 40 MG",
+    "price": "3.28 ₹(1 Tablet)"
+  },
+  {
+    "name": "PROPRANOLOL",
+    "dosage": "TABLET 40 MG",
+    "price": "2.75 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "PROPRANOLOL",
+    "dosage": "CAPSULE 80 MG",
+    "price": "6.41 ₹(1 Capsule)"
+  },
+  {
+    "name": "PROPRANOLOL",
+    "dosage": "TABLET 80 MG",
+    "price": "5.55 ₹(1 Tablet)"
+  },
+  {
+    "name": "PROTAMINE",
+    "dosage": "INJECTION 10 MG",
+    "price": "9.95 ₹(1 ML)"
+  },
+  {
+    "name": "PYRAZINAMIDE",
+    "dosage": "TABLET 1000 MG",
+    "price": "10.71 ₹(1 Tablet)"
+  },
+  {
+    "name": "PYRAZINAMIDE",
+    "dosage": "TABLET 1500 MG",
+    "price": "12.02 ₹(1 Tablet)"
+  },
+  {
+    "name": "PYRAZINAMIDE",
+    "dosage": "ORAL LIQUID 250 MG/ 5 ML",
+    "price": "0.77 ₹(1 ML)"
+  },
+  {
+    "name": "PYRAZINAMIDE",
+    "dosage": "TABLET 500 MG",
+    "price": "4.98 ₹(1 Tablet)"
+  },
+  {
+    "name": "PYRAZINAMIDE",
+    "dosage": "TABLET 750 MG",
+    "price": "7.34 ₹(1 Tablet)"
+  },
+  {
+    "name": "QUININE",
+    "dosage": "INJECTION 300 MG",
+    "price": "9.67 ₹(1 ML)"
+  },
+  {
+    "name": "QUININE",
+    "dosage": "TABLET 300 MG",
+    "price": "5.75 ₹(1 Tablet)"
+  },
+  {
+    "name": "RALTEGRAVIR",
+    "dosage": "TABLET 400 MG",
+    "price": "150.36 ₹(1 Tablet)"
+  },
+  {
+    "name": "RAMIPRIL",
+    "dosage": "CAPSULE 2.5 MG",
+    "price": "4.74 ₹(1 Capsule)"
+  },
+  {
+    "name": "RAMIPRIL",
+    "dosage": "TABLET 2.5 MG",
+    "price": "5.30 ₹(1 Tablet)"
+  },
+  {
+    "name": "RAMIPRIL",
+    "dosage": "CAPSULE 5 MG",
+    "price": "7.32 ₹(1 Capsule)"
+  },
+  {
+    "name": "RAMIPRIL",
+    "dosage": "TABLET 5 MG",
+    "price": "7.81 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "RAMIPRIL",
+    "dosage": "TABLET 5 MG",
+    "price": "8.32 ₹(1 Tablet)"
+  },
+  {
+    "name": "RANITIDINE",
+    "dosage": "TABLET 150 MG",
+    "price": "0.73 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "RANITIDINE",
+    "dosage": "TABLET 150 MG",
+    "price": "1.22 ₹(1 Tablet)"
+  },
+  {
+    "name": "RANITIDINE",
+    "dosage": "INJECTION 25 MG",
+    "price": "2.69 ₹(1 ML)"
+  },
+  {
+    "name": "RANITIDINE",
+    "dosage": "ORAL LIQUID 75 MG/ 5 ML",
+    "price": "1.20 ₹(1 ML)"
+  },
+  {
+    "name": "INSULIN (SOLUBLE)",
+    "dosage": "INJECTION 40 IU",
+    "price": "16.71 ₹(1 ML)"
+  },
+  {
+    "name": "RIBAVIRIN",
+    "dosage": "CAPSULE 200 MG",
+    "price": "26.95 ₹(1"
+  },
+  {
+    "name": "RIFABUTIN",
+    "dosage": "CAPSULE 150 MG",
+    "price": "44.04 ₹(1"
+  },
+  {
+    "name": "RIFABUTIN",
+    "dosage": "TABLET 150 MG",
+    "price": "41.13 ₹(1 Tablet)"
+  },
+  {
+    "name": "RIFAMPICIN",
+    "dosage": "ORAL LIQUID 100 MG/ 5 ML",
+    "price": "0.48 ₹(1 ML)"
+  },
+  {
+    "name": "RIFAMPICIN",
+    "dosage": "CAPSULE 150 MG",
+    "price": "2.33 ₹(1 Capsule)"
+  },
+  {
+    "name": "RIFAMPICIN",
+    "dosage": "TABLET 150 MG",
+    "price": "2.04 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "RIFAMPICIN",
+    "dosage": "CAPSULE 300 MG",
+    "price": "4.69 ₹(1 Capsule)"
+  },
+  {
+    "name": "RIFAMPICIN",
+    "dosage": "TABLET 300 MG",
+    "price": "3.70 ₹(1 Tablet)"
+  },
+  {
+    "name": "RIFAMPICIN",
+    "dosage": "CAPSULE 450 MG",
+    "price": "5.77 ₹(1 Capsule)"
+  },
+  {
+    "name": "RIFAMPICIN",
+    "dosage": "TABLET 450 MG",
+    "price": "5.62 ₹(1 Tablet)"
+  },
+  {
+    "name": "RIFAMPICIN",
+    "dosage": "CAPSULE 600 MG",
+    "price": "11.56 ₹(1"
+  },
+  {
+    "name": "RINGER LACTATE",
+    "dosage": "INJECTION 1000 ML",
+    "price": "116.20 ₹(Each"
+  },
+  {
+    "name": "RINGER LACTATE",
+    "dosage": "INJECTION 100 ML",
+    "price": "30.42 ₹(Each 100"
+  },
+  {
+    "name": "RINGER LACTATE",
+    "dosage": "INJECTION 250 ML",
+    "price": "51.88 ₹(Each 250"
+  },
+  {
+    "name": "RINGER LACTATE",
+    "dosage": "INJECTION 500 ML",
+    "price": "66.09 ₹(Each 500"
+  },
+  {
+    "name": "RISPERIDONE",
+    "dosage": "ORAL SOLUTION 1 MG",
+    "price": "2.25 ₹(1 ML)"
+  },
+  {
+    "name": "RISPERIDONE",
+    "dosage": "TABLET 1 MG",
+    "price": "3.08 ₹(1 Tablet)"
+  },
+  {
+    "name": "RISPERIDONE",
+    "dosage": "INJECTION 25 MG",
+    "price": "1963.88 ₹(1 ML)"
+  },
+  {
+    "name": "RISPERIDONE",
+    "dosage": "TABLET 2 MG",
+    "price": "4.56 ₹(1 Tablet)"
+  },
+  {
+    "name": "RISPERIDONE",
+    "dosage": "INJECTION 37.5 MG",
+    "price": "2695.51 ₹(1 ML)"
+  },
+  {
+    "name": "RISPERIDONE",
+    "dosage": "TABLET 4 MG",
+    "price": "7.49 ₹(1 Tablet)"
+  },
+  {
+    "name": "RITONAVIR",
+    "dosage": "CAPSULE 100 MG",
+    "price": "35.75 ₹(1"
+  },
+  {
+    "name": "RITONAVIR",
+    "dosage": "TABLET 100 MG",
+    "price": "29.72 ₹(1 Tablet)"
+  },
+  {
+    "name": "LOPINAVIR (A)+RITONAVIR (B)",
+    "dosage": "TABLET 100/25 MG",
+    "price": "29.79 ₹(1 Tablet)"
+  },
+  {
+    "name": "RITONAVIR + LOPINAVIR",
+    "dosage": "TABLET 50/200 MG",
+    "price": "48.80 ₹(1 Tablet)"
+  },
+  {
+    "name": "RITUXIMAB",
+    "dosage": "INJECTION 10 MG",
+    "price": "775.07 ₹(1 ML)"
+  },
+  {
+    "name": "ROTAVIRUS",
+    "dosage": "VACCINE --",
+    "price": "869.44 ₹(Each Vial)"
+  },
+  {
+    "name": "MEASLES RUBBELA VACCINE",
+    "dosage": "INJECTION --",
+    "price": "110.07 ₹(Each Pack (0.5ml))"
+  },
+  {
+    "name": "RUBELLA (GERMAN MEASLES)",
+    "dosage": "INJECTION --",
+    "price": "72.43 ₹(Each Vial) ( Pack)"
+  },
+  {
+    "name": "SALBUTAMOL",
+    "dosage": "INHALER 100 MCG",
+    "price": "0.50 ₹(Per Metered Dose)"
+  },
+  {
+    "name": "SALBUTAMOL",
+    "dosage": "SYRUP 2 MG",
+    "price": "0.18 ₹(1 ML)"
+  },
+  {
+    "name": "SALBUTAMOL",
+    "dosage": "TABLET 2 MG",
+    "price": "0.18 ₹(1 Tablet)"
+  },
+  {
+    "name": "SALBUTAMOL",
+    "dosage": "TABLET 2 MG",
+    "price": "0.27 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "SALBUTAMOL",
+    "dosage": "CAPSULE 4 MG",
+    "price": "0.75 ₹(1 Capsule)"
+  },
+  {
+    "name": "SALBUTAMOL",
+    "dosage": "TABLET 4 MG",
+    "price": "0.33 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "SALBUTAMOL",
+    "dosage": "TABLET 4 MG",
+    "price": "0.21 ₹(1 Tablet)"
+  },
+  {
+    "name": "SALBUTAMOL",
+    "dosage": "SOLUTION 5 MG",
+    "price": "0.68 ₹(1 ML)"
+  },
+  {
+    "name": "SALBUTAMOL",
+    "dosage": "SOLUTION 5 MG",
+    "price": "1.04 ₹(1 ML)("
+  },
+  {
+    "name": "SALICYLIC ACID",
+    "dosage": "OINTMENT 3 %",
+    "price": "2.10 ₹(1 GM)"
+  },
+  {
+    "name": "SALICYLIC ACID",
+    "dosage": "OINTMENT 6 %",
+    "price": "2.06 ₹(1 GM)"
+  },
+  {
+    "name": "SEVOFLURANE",
+    "dosage": "INHALER --",
+    "price": "31.71 ₹(1 ML)"
+  },
+  {
+    "name": "SILVER SULPHADIAZINE",
+    "dosage": "CREAM 1%",
+    "price": "0.64 ₹(1 GM)"
+  },
+  {
+    "name": "SNAKE VENOM ANTISERUM- LYOPHILIZED POLYVALENT",
+    "dosage": "INJECTION --",
+    "price": "676.83 ₹(Each Vial)"
+  },
+  {
+    "name": "SNAKE VENOM ANTISERUM-SOLUBLE/ LIQUID POLYVALENT",
+    "dosage": "INJECTION --",
+    "price": "436.13 ₹(Each Vial)"
+  },
+  {
+    "name": "SODIUM BICARBONATE",
+    "dosage": "INJECTION 7.5 %",
+    "price": "1.03 ₹(1 ML)"
+  },
+  {
+    "name": "SODIUM BICARBONATE",
+    "dosage": "INJECTION 8.4 %",
+    "price": "1.37 ₹(1 ML)"
+  },
+  {
+    "name": "SODIUM CHLORIDE",
+    "dosage": "INJECTION 0.90%",
+    "price": "100.22 ₹(1000ml"
+  },
+  {
+    "name": "SODIUM NITRITE",
+    "dosage": "INJECTION 30 MG",
+    "price": "32.91 ₹(1 ML)"
+  },
+  {
+    "name": "SODIUM NITROPRUSSIDE",
+    "dosage": "INJECTION 10 MG",
+    "price": "32.71 ₹(1 ML)"
+  },
+  {
+    "name": "SODIUM VALPROATE",
+    "dosage": "INJECTION 100 MG",
+    "price": "6.87 ₹(1 ML)"
+  },
+  {
+    "name": "SODIUM VALPROATE",
+    "dosage": "ORAL LIQUID 200 MG/ 5 ML",
+    "price": "0.66 ₹(1 ML)"
+  },
+  {
+    "name": "SODIUM VALPROATE",
+    "dosage": "TABLET 200 MG",
+    "price": "3.65 ₹(1 Tablet)"
+  },
+  {
+    "name": "SODIUM VALPROATE",
+    "dosage": "MODIFIED RELEASE TABLET 300 MG",
+    "price": "6.21 ₹(1 Tablet)"
+  },
+  {
+    "name": "SODIUM VALPROATE",
+    "dosage": "TABLET 300 MG",
+    "price": "4.54 ₹(1 Tablet)"
+  },
+  {
+    "name": "SODIUM VALPROATE",
+    "dosage": "CR TABLET 300 MG",
+    "price": "6.99 ₹(1 Tablet)"
+  },
+  {
+    "name": "SODIUM VALPROATE",
+    "dosage": "MODIFIED RELEASE TABLET 500 MG",
+    "price": "9.44 ₹(1 Tablet)"
+  },
+  {
+    "name": "SODIUM VALPROATE",
+    "dosage": "TABLET 500 MG",
+    "price": "8.26 ₹(1 Tablet)"
+  },
+  {
+    "name": "SODIUM VALPROATE",
+    "dosage": "CR TABLET 500 MG",
+    "price": "10.82 ₹(1 Tablet)"
+  },
+  {
+    "name": "SOFOSBUVIR",
+    "dosage": "TABLET 400 MG",
+    "price": "534.25 ₹(1 Tablet)"
+  },
+  {
+    "name": "SOMATOSTATIN",
+    "dosage": "POWDER FOR INJECTION 3 MG",
+    "price": "1382.65 ₹(Each Vial)"
+  },
+  {
+    "name": "SPIRONOLACTONE",
+    "dosage": "TABLET 25 MG",
+    "price": "1.91 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "SPIRONOLACTONE",
+    "dosage": "TABLET 25 MG",
+    "price": "2.23 ₹(1 Tablet)"
+  },
+  {
+    "name": "SPIRONOLACTONE",
+    "dosage": "TABLET 50 MG",
+    "price": "4.45 ₹(1 Tablet)"
+  },
+  {
+    "name": "SPIRONOLACTONE",
+    "dosage": "TABLET 50 MG",
+    "price": "3.79 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "STREPTOKINASE",
+    "dosage": "INJECTION 1500000 IU",
+    "price": "1910.00 ₹(Each Vial)"
+  },
+  {
+    "name": "STREPTOKINASE",
+    "dosage": "INJECTION 750000 IU",
+    "price": "1594.70 ₹(Each Pack)"
+  },
+  {
+    "name": "STREPTOMYCIN",
+    "dosage": "POWDER FOR INJECTION 1000 MG",
+    "price": "10.86 ₹(Each Vial)"
+  },
+  {
+    "name": "STREPTOMYCIN",
+    "dosage": "POWDER FOR INJECTION 1000 MG",
+    "price": "16.57 ₹(Each Vial) ( Pack)"
+  },
+  {
+    "name": "STREPTOMYCIN",
+    "dosage": "POWDER FOR INJECTION 750 MG",
+    "price": "15.41 ₹(Each Vial) ( Pack)"
+  },
+  {
+    "name": "STREPTOMYCIN",
+    "dosage": "POWDER FOR INJECTION 750 MG",
+    "price": "10.10 ₹(Each Vial)"
+  },
+  {
+    "name": "SUCRALFATE",
+    "dosage": "ORAL LIQUID 1000 MG",
+    "price": "0.78 ₹(1 ML)"
+  },
+  {
+    "name": "SULFASALAZINE",
+    "dosage": "TABLET 500 MG",
+    "price": "4.80 ₹(1 Tablet)"
+  },
+  {
+    "name": "SULFASALAZINE",
+    "dosage": "TABLET DR 500 MG",
+    "price": "4.72 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "SUMATRIPTAN",
+    "dosage": "TABLET 25 MG",
+    "price": "33.07 ₹(1 Tablet)"
+  },
+  {
+    "name": "SUMATRIPTAN",
+    "dosage": "TABLET 50 MG",
+    "price": "56.65 ₹(1 Tablet)"
+  },
+  {
+    "name": "SURFACTANT",
+    "dosage": "SUSPENSION --",
+    "price": "80.37 ₹(Per mg of Phospholipids in the pack)"
+  },
+  {
+    "name": "SUCCINYL CHOLINE",
+    "dosage": "INJECTION 50 MG/ML",
+    "price": "5.30 ₹(1 ML)"
+  },
+  {
+    "name": "TACROLIMUS",
+    "dosage": "CAPSULE 0.5 MG",
+    "price": "21.02 ₹(1"
+  },
+  {
+    "name": "TACROLIMUS",
+    "dosage": "TABLET 0.5 MG",
+    "price": "21.33 ₹(1 Tablet)"
+  },
+  {
+    "name": "TACROLIMUS",
+    "dosage": "CAPSULE 1 MG",
+    "price": "41.33 ₹(1"
+  },
+  {
+    "name": "TACROLIMUS",
+    "dosage": "TABLET 1 MG",
+    "price": "40.68 ₹(1 Tablet)"
+  },
+  {
+    "name": "TACROLIMUS",
+    "dosage": "CAPSULE 2 MG",
+    "price": "85.81 ₹(1"
+  },
+  {
+    "name": "TACROLIMUS",
+    "dosage": "TABLET 2 MG",
+    "price": "79.04 ₹(1 Tablet)"
+  },
+  {
+    "name": "TAMOXIFEN",
+    "dosage": "TABLET 10 MG",
+    "price": "2.25 ₹(1 Tablet)"
+  },
+  {
+    "name": "TAMOXIFEN",
+    "dosage": "TABLET 20 MG",
+    "price": "3.00 ₹(1 Tablet)"
+  },
+  {
+    "name": "TD VACCINE",
+    "dosage": "EACH DOSE OF 0.5ML CONTAINS: DIPHTHERIA TOXOID ?25LF (? 30IU) TETANUS TOXOID ? 5LF (? 40IU) 25 LF",
+    "price": "20.35 ₹(Each Pack (0.5ml))"
+  },
+  {
+    "name": "TD VACCINE",
+    "dosage": "EACH DOSE OF 0.5ML CONTAINS: DIPHTHERIA TOXOID ?5LF (? 2IU) TETANUS TOXOID ? 5LF (? 40IU) 5 LF",
+    "price": "23.74 ₹(Each Pack (0.5ml))"
+  },
+  {
+    "name": "TELMISARTAN",
+    "dosage": "TABLET 20 MG",
+    "price": "3.95 ₹(1 Tablet)"
+  },
+  {
+    "name": "TELMISARTAN",
+    "dosage": "TABLET 40 MG",
+    "price": "6.57 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "TELMISARTAN",
+    "dosage": "TABLET 40 MG",
+    "price": "6.88 ₹(1 Tablet)"
+  },
+  {
+    "name": "TELMISARTAN",
+    "dosage": "TABLET 80 MG",
+    "price": "10.58 ₹(1 Tablet)"
+  },
+  {
+    "name": "TEMOZOLOMIDE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "1534.96 ₹(1"
+  },
+  {
+    "name": "TEMOZOLOMIDE",
+    "dosage": "TABLET 100 MG",
+    "price": "1959.10 ₹(1"
+  },
+  {
+    "name": "TEMOZOLOMIDE",
+    "dosage": "CAPSULE 20 MG",
+    "price": "449.01 ₹(1"
+  },
+  {
+    "name": "TEMOZOLOMIDE",
+    "dosage": "TABLET 20 MG",
+    "price": "342.50 ₹(1 Tablet)"
+  },
+  {
+    "name": "TEMOZOLOMIDE",
+    "dosage": "CAPSULE 250 MG",
+    "price": "4378.90 ₹(1"
+  },
+  {
+    "name": "TEMOZOLOMIDE",
+    "dosage": "TABLET 250 MG",
+    "price": "3823.54 ₹(1"
+  },
+  {
+    "name": "TENECTEPLASE",
+    "dosage": "INJECTION 30 MG",
+    "price": "37552.36 ₹(Each"
+  },
+  {
+    "name": "TENECTEPLASE",
+    "dosage": "INJECTION 40 MG",
+    "price": "51266.60 ₹(Each"
+  },
+  {
+    "name": "TENELIGLIPTIN",
+    "dosage": "TABLET 20 MG",
+    "price": "11.28 ₹(1 Tablet)"
+  },
+  {
+    "name": "TENOFOVIR",
+    "dosage": "TABLET 300 MG",
+    "price": "46.64 ₹(1 Tablet)"
+  },
+  {
+    "name": "TENOFOVIR ALAFENAMIDE",
+    "dosage": "TABLET 25 MG",
+    "price": "49.72 ₹(1 Tablet)"
+  },
+  {
+    "name": "TERBINAFINE",
+    "dosage": "CREAM 1 %",
+    "price": "5.35 ₹(1 GM)"
+  },
+  {
+    "name": "TETANUS",
+    "dosage": "INJECTION 0.5 ML",
+    "price": "25.97 ₹(Each"
+  },
+  {
+    "name": "TETANUS",
+    "dosage": "INJECTION 1000 IU",
+    "price": "2730.90 ₹(Each Vial)( Pack)"
+  },
+  {
+    "name": "TETANUS",
+    "dosage": "INJECTION 250 IU",
+    "price": "1266.45 ₹(Each Vial)( Pack)"
+  },
+  {
+    "name": "ANTI-TETANUS IMMUNOGLOBULIN",
+    "dosage": "INJECTION 250 IU",
+    "price": "1383.57 ₹(Each Pack)"
+  },
+  {
+    "name": "TETANUS",
+    "dosage": "INJECTION 500 IU",
+    "price": "1908.39 ₹(Each Vial)( Pack)"
+  },
+  {
+    "name": "TETANUS TOXOID",
+    "dosage": "INJECTION --",
+    "price": "12.04 ₹(Each Pack (0.5ml))"
+  },
+  {
+    "name": "THALIDOMIDE",
+    "dosage": "CAPSULE 100 MG",
+    "price": "63.09 ₹(1"
+  },
+  {
+    "name": "THALIDOMIDE",
+    "dosage": "CAPSULE 50 MG",
+    "price": "31.70 ₹(1"
+  },
+  {
+    "name": "THIOPENTAL SODIUM",
+    "dosage": "INJECTION 1000 MG",
+    "price": "56.28 ₹(Each Vial)"
+  },
+  {
+    "name": "THIOPENTAL SODIUM",
+    "dosage": "INJECTION 500 MG",
+    "price": "46.49 ₹(Each Vial)"
+  },
+  {
+    "name": "TIMOLOL",
+    "dosage": "DROPS 0.5 %",
+    "price": "13.63 ₹(1 ML)"
+  },
+  {
+    "name": "TIMOLOL",
+    "dosage": "DROPS 0.50%",
+    "price": "11.89 ₹(1 ML)("
+  },
+  {
+    "name": "TIMOLOL",
+    "dosage": "DROPS 0.25%",
+    "price": "6.55 ₹(1 ML)"
+  },
+  {
+    "name": "TIMOLOL",
+    "dosage": "DROPS 0.25%",
+    "price": "5.15 ₹(1 ML)("
+  },
+  {
+    "name": "TIOTROPIUM",
+    "dosage": "INHALER 18 MCG",
+    "price": "10.90 ₹(Per Dose)"
+  },
+  {
+    "name": "TIOTROPIUM",
+    "dosage": "INHALER 9 MCG",
+    "price": "2.83 ₹(Per Metered Dose)"
+  },
+  {
+    "name": "TRAMADOL",
+    "dosage": "CAPSULE 100 MG",
+    "price": "9.20 ₹(1 Capsule)"
+  },
+  {
+    "name": "TRAMADOL",
+    "dosage": "TABLET 100 MG",
+    "price": "24.91 ₹(1 Tablet)"
+  },
+  {
+    "name": "TRAMADOL",
+    "dosage": "CAPSULE 50 MG",
+    "price": "4.90 ₹(1 Capsule)"
+  },
+  {
+    "name": "TRAMADOL",
+    "dosage": "INJECTION 50 MG",
+    "price": "11.99 ₹(1 ML)"
+  },
+  {
+    "name": "TRAMADOL",
+    "dosage": "INJECTION 50 MG",
+    "price": "1.58 ₹(20 ML"
+  },
+  {
+    "name": "TRAMADOL",
+    "dosage": "TABLET 50 MG",
+    "price": "9.87 ₹(1 Tablet)"
+  },
+  {
+    "name": "TRANEXAMIC ACID",
+    "dosage": "INJECTION 100 MG/ML",
+    "price": "13.95 ₹(1 ML)"
+  },
+  {
+    "name": "TRANEXAMIC ACID",
+    "dosage": "TABLET 500 MG",
+    "price": "18.86 ₹(1 Tablet)"
+  },
+  {
+    "name": "TRASTUZUMAB",
+    "dosage": "INJECTION 440 MG/ 50 ML",
+    "price": "55677.57 ₹(Each"
+  },
+  {
+    "name": "ALL-TRANS RETINOIC ACID",
+    "dosage": "CAPSULE 10 MG",
+    "price": "103.62 ₹(1"
+  },
+  {
+    "name": "TRIHEXYPHENIDYL",
+    "dosage": "TABLET 2 MG",
+    "price": "1.39 ₹(1 Tablet)"
+  },
+  {
+    "name": "CO-TRIMOXAZOLE (SULPHAMETHOXAZOLE(A)+TRIMETHOPRIM(B)]",
+    "dosage": "TABLET 160 MG(A)+800 MG(B)",
+    "price": "2.52 ₹(1 Tablet)"
+  },
+  {
+    "name": "TRIMETHOPRIM + SULPHAMETHOXAZOLE",
+    "dosage": "SUSPENSION 200/40 MG",
+    "price": "0.36 ₹(1 ML)"
+  },
+  {
+    "name": "CO-TRIMOXAZOLE (SULPHAMETHOXAZOLE(A)+TRIMETHOPRIM(B)]",
+    "dosage": "TABLET 800 MG(A)+160 MG(B)",
+    "price": "2.34 ₹(1 Tablet)"
+  },
+  {
+    "name": "CO-TRIMOXAZOLE (SULPHAMETHOXAZOLE(A)+TRIMETHOPRIM(B)]",
+    "dosage": "TABLET 400 MG(A)+80 MG(B)",
+    "price": "0.92 ₹(1 Tablet)"
+  },
+  {
+    "name": "TROPICAMIDE EYE DROPS / OINTMENT",
+    "dosage": "DROPS 1 %",
+    "price": "9.59 ₹(1 ML)"
+  },
+  {
+    "name": "UNFRACTIONATED HEPARINS - SYSTEMIC",
+    "dosage": "INJECTION 5000 IU",
+    "price": "61.00 ₹(1 ML)"
+  },
+  {
+    "name": "VALGANCICLOVIR",
+    "dosage": "TABLET 450 MG",
+    "price": "415.38 ₹(1 Tablet) ( Pack)"
+  },
+  {
+    "name": "VALGANCICLOVIR",
+    "dosage": "TABLET 450 MG",
+    "price": "408.27 ₹(1 Tablet)"
+  },
+  {
+    "name": "VANCOMYCIN",
+    "dosage": "INJECTION 1000 MG",
+    "price": "478.44 ₹(Each Vial)"
+  },
+  {
+    "name": "VANCOMYCIN",
+    "dosage": "CAPSULE 250 MG",
+    "price": "155.03 ₹(1"
+  },
+  {
+    "name": "VANCOMYCIN",
+    "dosage": "INJECTION 250 MG",
+    "price": "255.62 ₹(Each Vial)"
+  },
+  {
+    "name": "VANCOMYCIN",
+    "dosage": "INJECTION 500 MG",
+    "price": "323.16 ₹(Each Vial)"
+  },
+  {
+    "name": "VECURONIUM",
+    "dosage": "POWDER FOR INJECTION 10 MG",
+    "price": "119.40 ₹(Each Vial)"
+  },
+  {
+    "name": "VECURONIUM",
+    "dosage": "POWDER FOR INJECTION 4 MG",
+    "price": "75.69 ₹(Each Vial)"
+  },
+  {
+    "name": "VERAPAMIL",
+    "dosage": "INJECTION 2.5 MG",
+    "price": "1.49 ₹(1 ML)"
+  },
+  {
+    "name": "VERAPAMIL",
+    "dosage": "TABLET 40 MG",
+    "price": "0.87 ₹(1 Tablet)"
+  },
+  {
+    "name": "VERAPAMIL",
+    "dosage": "TABLET 80 MG",
+    "price": "1.62 ₹(1 Tablet)"
+  },
+  {
+    "name": "VINBLASTINE",
+    "dosage": "INJECTION 1 MG",
+    "price": "25.98 ₹(1 ML)"
+  },
+  {
+    "name": "VINCRISTINE",
+    "dosage": "INJECTION 1 MG",
+    "price": "58.52 ₹(1 ML)"
+  },
+  {
+    "name": "VITAMIN A",
+    "dosage": "CAPSULE 50000 IU",
+    "price": "0.69 ₹(1 Capsule)"
+  },
+  {
+    "name": "VITAMIN A",
+    "dosage": "INJECTION 50000 IU",
+    "price": "2.30 ₹(1 ML)"
+  },
+  {
+    "name": "VITAMIN A",
+    "dosage": "TABLET 50000 IU",
+    "price": "0.74 ₹(1 Tablet)"
+  },
+  {
+    "name": "VITAMIN B1 PLAIN (WITH ADDITIVES)",
+    "dosage": "INJECTION 100 MG",
+    "price": "27.16 ₹(1 ML)("
+  },
+  {
+    "name": "VITAMIN B1 PLAIN (WITH ADDITIVES)",
+    "dosage": "INJECTION 100 MG",
+    "price": "22.59 ₹(1 ML)"
+  },
+  {
+    "name": "THIAMINE",
+    "dosage": "TABLET 100 MG",
+    "price": "4.54 ₹(1 Tablet)"
+  },
+  {
+    "name": "THIAMINE",
+    "dosage": "TABLET 100 MG",
+    "price": "3.74 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "PYRIDOXINE",
+    "dosage": "TABLET 100 MG",
+    "price": "6.08 ₹(1 Tablet)"
+  },
+  {
+    "name": "PYRIDOXINE",
+    "dosage": "TABLET 10 MG",
+    "price": "0.11 ₹(1 Tablet)"
+  },
+  {
+    "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+    "dosage": "CAPSULE 1000 IU",
+    "price": "4.98 ₹(1 Capsule)"
+  },
+  {
+    "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+    "dosage": "GRANULES 1000 IU",
+    "price": "23.54 ₹(1 GM)"
+  },
+  {
+    "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+    "dosage": "TABLET 1000 IU",
+    "price": "4.39 ₹(1 Tablet)"
+  },
+  {
+    "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+    "dosage": "SYRUP 400 IU",
+    "price": "2.66 ₹(1 ML)"
+  },
+  {
+    "name": "CHOLECALCIFEROL",
+    "dosage": "TABLET 600000 IU",
+    "price": "26.93 ₹(1"
+  },
+  {
+    "name": "CHOLECALCIFEROL",
+    "dosage": "CAPSULE 60000 IU",
+    "price": "26.09 ₹(1"
+  },
+  {
+    "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+    "dosage": "CAPSULE 60000 IU",
+    "price": "31.32 ₹(1"
+  },
+  {
+    "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+    "dosage": "GRANULES 60000 IU",
+    "price": "34.57 ₹(1 GM)"
+  },
+  {
+    "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+    "dosage": "SOFTGEL CAPSULE 60000 IU",
+    "price": "30.78 ₹(1"
+  },
+  {
+    "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+    "dosage": "TABLET 60000 IU",
+    "price": "22.89 ₹(1 Tablet)"
+  },
+  {
+    "name": "WARFARIN",
+    "dosage": "TABLET 1 MG",
+    "price": "2.50 ₹(1 Tablet)"
+  },
+  {
+    "name": "WARFARIN",
+    "dosage": "TABLET 2 MG",
+    "price": "2.77 ₹(1 Tablet)"
+  },
+  {
+    "name": "WARFARIN",
+    "dosage": "TABLET 3 MG",
+    "price": "3.24 ₹(1 Tablet)"
+  },
+  {
+    "name": "WARFARIN",
+    "dosage": "TABLET 5 MG",
+    "price": "2.44 ₹(1 Tablet)"
+  },
+  {
+    "name": "WATER FOR INJECTION",
+    "dosage": "INJECTION --",
+    "price": "2.84 ₹(Each Pack"
+  },
+  {
+    "name": "WATER FOR INJECTION",
+    "dosage": "INJECTION --",
+    "price": "2.46 ₹(10 ml Pack)( Pack)"
+  },
+  {
+    "name": "WHITE PETROLATUM",
+    "dosage": "JELLY 100%",
+    "price": "0.10 ₹(1 GM)"
+  },
+  {
+    "name": "XYLOMETAZOLINE",
+    "dosage": "NASAL DROPS 0.05 %",
+    "price": "4.26 ₹(1 ML)"
+  },
+  {
+    "name": "XYLOMETAZOLINE",
+    "dosage": "NASAL DROPS 0.1 %",
+    "price": "5.21 ₹(1 ML)"
+  },
+  {
+    "name": "ZIDOVUDINE",
+    "dosage": "CAPSULE 300 MG",
+    "price": "2.61 ₹(1 Capsule)"
+  },
+  {
+    "name": "ZIDOVUDINE",
+    "dosage": "TABLET 300 MG",
+    "price": "13.83 ₹(1 Tablet)"
+  },
+  {
+    "name": "ZINC SULPHATE",
+    "dosage": "DISPERSIBLE TABLET 20 MG",
+    "price": "3.47 ₹(1 Tablet)"
+  },
+  {
+    "name": "ZOLEDRONIC ACID",
+    "dosage": "POWDER FOR INJECTION 4 MG",
+    "price": "2433.68 ₹(Each Vial)"
+  },
+  {
+    "name": "ZOLPIDEM",
+    "dosage": "TABLET 10 MG",
+    "price": "8.66 ₹(1 Tablet)"
+  },
+  {
+    "name": "ZOLPIDEM",
+    "dosage": "TABLET 10 MG",
+    "price": "8.42 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "ZOLPIDEM",
+    "dosage": "CAPSULE 5 MG",
+    "price": "9.31 ₹(1 Capsule)"
+  },
+  {
+    "name": "ZOLPIDEM",
+    "dosage": "CAPSULE 5 MG",
+    "price": "7.33 ₹(1 Capsule) ( Pack)"
+  },
+  {
+    "name": "ZOLPIDEM",
+    "dosage": "TABLET 5 MG",
+    "price": "5.37 ₹(1 Tablet)( Pack)"
+  },
+  {
+    "name": "ZOLPIDEM",
+    "dosage": "TABLET 5 MG",
+    "price": "6.32 ₹(1 Tablet)"
+  }
+]

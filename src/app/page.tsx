@@ -1,137 +1,101 @@
-import { ApiKeyCheck } from "@/components/ApiKeyCheck";
-import Image from "next/image";
+'use client';
 
-const KeyFilesSection = () => (
-  <div className="bg-white px-8 py-4">
-    <h2 className="text-xl font-semibold mb-4">How it works:</h2>
-    <ul className="space-y-4 text-gray-600">
-      <li className="flex items-start gap-2">
-        <span>📄</span>
-        <span>
-          <code className="font-medium">src/app/layout.tsx</code> - Main layout
-          with TamboProvider
-        </span>
-      </li>
-      <li className="flex items-start gap-2">
-        <span>📄</span>
-        <span>
-          <code className="font-medium font-mono">src/app/chat/page.tsx</code> -
-          Chat page with TamboProvider and MCP integration
-        </span>
-      </li>
-      <li className="flex items-start gap-2">
-        <span>📄</span>
-        <span>
-          <code className="font-medium font-mono">
-            src/app/interactables/page.tsx
-          </code>{" "}
-          - Interactive demo page with tools and components
-        </span>
-      </li>
-      <li className="flex items-start gap-2">
-        <span>📄</span>
-        <span>
-          <code className="font-medium font-mono">
-            src/components/tambo/message-thread-full.tsx
-          </code>{" "}
-          - Chat UI
-        </span>
-      </li>
-      <li className="flex items-start gap-2">
-        <span>📄</span>
-        <span>
-          <code className="font-medium font-mono">
-            src/components/tambo/graph.tsx
-          </code>{" "}
-          - A generative graph component
-        </span>
-      </li>
-      <li className="flex items-start gap-2">
-        <span>📄</span>
-        <span>
-          <code className="font-medium font-mono">
-            src/services/population-stats.ts
-          </code>{" "}
-          - Example tool implementation with mock population data
-        </span>
-      </li>
-      <li className="flex items-start gap-2">
-        <span className="text-blue-500">📄</span>
-        <span>
-          <code className="font-medium font-mono">src/lib/tambo.ts</code> -
-          Component and tool registration
-        </span>
-      </li>
-      <li className="flex items-start gap-2">
-        <span className="text-blue-500">📄</span>
-        <span>
-          <code className="font-medium font-mono">README.md</code> - For more
-          details check out the README
-        </span>
-      </li>
-    </ul>
-    <div className="flex gap-4 flex-wrap mt-4">
-      <a
-        href="https://docs.tambo.co"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="px-6 py-3 rounded-md font-medium transition-colors text-lg mt-4 border border-gray-300 hover:bg-gray-50"
-      >
-        View Docs
-      </a>
-      <a
-        href="https://tambo.co/dashboard"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="px-6 py-3 rounded-md font-medium transition-colors text-lg mt-4 border border-gray-300 hover:bg-gray-50"
-      >
-        Dashboard
-      </a>
-    </div>
-  </div>
-);
+import React, { useState, Suspense } from 'react';
+import dynamic from 'next/dynamic';
+import PriceSlider from '@/components/ui/PriceSlider';
+import ScanSection from '@/components/ui/ScanSection';
+import ComparisonCard from '@/components/ui/ComparisonCard';
+import { motion } from 'framer-motion';
+
+// Dynamically import Scene to avoid SSR issues with Three.js
+const Scene = dynamic(() => import('@/components/3d/Scene'), { ssr: false });
 
 export default function Home() {
-  return (
-    <div className="min-h-screen p-8 flex flex-col items-center justify-center font-[family-name:var(--font-geist-sans)]">
-      <main className="max-w-2xl w-full space-y-8">
-        <div className="flex flex-col items-center">
-          <a href="https://tambo.co" target="_blank" rel="noopener noreferrer">
-            <Image
-              src="/Octo-Icon.svg"
-              alt="Tambo AI Logo"
-              width={80}
-              height={80}
-              className="mb-4"
-            />
-          </a>
-          <h1 className="text-4xl text-center">tambo-ai chat template</h1>
-        </div>
+  const [sliderValue, setSliderValue] = useState(0.5);
 
-        <div className="w-full space-y-8">
-          <div className="bg-white px-8 py-4">
-            <h2 className="text-xl font-semibold mb-4">Setup Checklist</h2>
-            <ApiKeyCheck>
-              <div className="flex gap-4 flex-wrap">
-                <a
-                  href="/chat"
-                  className="px-6 py-3 rounded-md font-medium shadow-sm transition-colors text-lg mt-4 bg-[#7FFFC3] hover:bg-[#72e6b0] text-gray-800"
-                >
-                  Go to Chat →
-                </a>
-                <a
-                  href="/interactables"
-                  className="px-6 py-3 rounded-md font-medium shadow-sm transition-colors text-lg mt-4 bg-[#FFE17F] hover:bg-[#f5d570] text-gray-800"
-                >
-                  Interactables Demo →
-                </a>
-              </div>
-            </ApiKeyCheck>
+  return (
+    <main className="relative w-full min-h-[300vh] bg-black text-white selection:bg-blue-500/30">
+
+      {/* Fixed 3D Background */}
+      <div className="fixed inset-0 z-0 pointer-events-none md:pointer-events-auto">
+        <Suspense fallback={null}>
+          <Scene sliderValue={sliderValue} />
+        </Suspense>
+      </div>
+
+      {/* Hero Content */}
+      <section className="relative z-10 w-full h-screen flex flex-col items-center justify-center pointer-events-none">
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 1, delay: 0.5 }}
+          className="text-center space-y-4"
+        >
+          <div className="inline-block px-4 py-1.5 rounded-full border border-white/10 bg-white/5 backdrop-blur-md mb-4 pointer-events-auto hover:bg-white/10 transition-colors cursor-pointer">
+            <span className="text-xs font-semibold tracking-widest uppercase text-zinc-300">
+              New Standard in Pharmacology
+            </span>
+          </div>
+          <h1 className="text-6xl md:text-8xl font-bold tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white to-white/40">
+            Smart Medicine.
+          </h1>
+          <p className="text-xl text-zinc-400 max-w-lg mx-auto leading-relaxed">
+            AI-powered analysis for better health decisions.
+            Compare, analyze, and choose with confidence.
+          </p>
+        </motion.div>
+
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 2, duration: 1 }}
+          className="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
+        >
+          <span className="text-xs font-medium text-zinc-500 tracking-widest uppercase">Scroll to Analyze</span>
+          <div className="w-px h-12 bg-gradient-to-b from-zinc-500 to-transparent" />
+        </motion.div>
+      </section>
+
+      {/* Scan Section */}
+      <ScanSection />
+
+      {/* Comparison Section */}
+      <section className="relative z-10 w-full min-h-screen flex flex-col items-center justify-center p-6 bg-gradient-to-b from-transparent to-black/80">
+        <div className="w-full max-w-5xl space-y-12">
+
+          <div className="text-center space-y-4 mb-12">
+            <h2 className="text-4xl md:text-5xl font-bold tracking-tight">Choice is Yours</h2>
+            <p className="text-zinc-400 max-w-xl mx-auto">
+              Real-time bioequivalence matching found identical active ingredients at a fraction of the cost.
+            </p>
           </div>
 
-          <KeyFilesSection />
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-12 items-center">
+            <ComparisonCard
+              type="value"
+              name="Ibuprofen 200mg"
+              manufacturer="Generic Labs"
+              price="$4.50"
+              isActive={sliderValue < 0.5}
+            />
+            <ComparisonCard
+              type="brand"
+              name="Advil Liqui-Gels"
+              manufacturer="Pfizer Consumer"
+              price="$16.99"
+              isActive={sliderValue >= 0.5}
+            />
+          </div>
+
+          <div className="py-12 flex justify-center sticky bottom-10 z-50">
+            <div className="bg-black/50 backdrop-blur-xl p-2 rounded-3xl border border-white/10 shadow-2xl">
+              <PriceSlider value={sliderValue} onChange={setSliderValue} />
+            </div>
+          </div>
+
         </div>
-      </main>
-    </div>
+      </section>
+
+    </main>
   );
 }
